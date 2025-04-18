@@ -5,6 +5,9 @@
 # Diretório de saída padrão para websites Quarto
 _site/
 
+# Ignorando os arquivos .docx
+*.docx
+
 # Diretório de saída padrão para livros Quarto (caso aplicável)
 # _book/
 
