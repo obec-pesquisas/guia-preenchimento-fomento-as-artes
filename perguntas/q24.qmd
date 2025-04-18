@@ -1,0 +1,38 @@
+# Pergunta 24
+
+## Enunciado
+
+Quais foram as modalidades de instrumentos utilizadas para o fomento às linguagens artísticas nos editais da LPG publicados em 2023 e 2024?
+
+* Apoio a espaços culturais
+* Apoio à execução de ações culturais
+* Bolsas culturais
+* Cooperação cultural
+* Ocupação cultural
+* Premiação cultural
+* Outra(s). Especifique:
+
+## Explicação
+
+Esta questão busca identificar os diferentes instrumentos que foram utilizados para apoiar e promover as diversas linguagens artísticas nos editais da LPG em 2023.
+
+### Instruções
+
+* Analise as opções: Leia atentamente cada uma das opções apresentadas.
+* Selecione as opções: Escolha aquelas que correspondem aos tipos de instrumentos utilizados para o fomento às linguagens artísticas.
+* Opção "Outra(s)": Marque esta opção somente se as modalidades de instrumentos utilizados não estiverem entre as alternativas listadas e especifique sua resposta.
+* Para conhecer mais sobre as modalidades dos instrumentos, consulte o detalhamento previsto no Capítulo II da Lei 14.903 de 27 de junho de 2024, conhecida como Marco do Fomento.
+
+### Descrição das alternativas
+
+**Apoio a espaços culturais:** Apoio para manutenção e desenvolvimento de teatros, museus, centros culturais e outros espaços destinados à promoção de atividades culturais.
+
+**Apoio à execução de ações culturais:** Incentivo para a realização de ações culturais, com repasse de recursos pela administração pública.
+
+**Bolsas culturais:** Auxílio financeiro a indivíduos para o desenvolvimento de pesquisas ou estudos na área da cultura, com repasse da administração pública.
+
+**Cooperação cultural:** Visa promover ações de interesse recíproco, não envolvendo repasse de recursos pela administração pública. A celebração do termo termo decorre de ação discricionária da administração pública, sem a necessidade de chamamento público.
+
+**Ocupação cultural:** Incentivos ou recursos para a utilização ordinária de equipamentos públicos para a realização de atividades culturais diversas, sem repasse de recursos pela administração pública.
+
+**Premiação cultural:** Premiação a indivíduos ou grupos pela relevância de sua contribuição para a cultura. Envolve a transferência de recursos públicos a título de doação, sem encargo ou estabelecimento de obrigações futuras.

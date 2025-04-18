@@ -1,0 +1,105 @@
+# Arquivo .gitignore para projetos Quarto
+
+# --- Arquivos específicos do Quarto ---
+
+# Diretório de saída padrão para websites Quarto
+_site/
+
+# Diretório de saída padrão para livros Quarto (caso aplicável)
+# _book/
+
+# Arquivos de cache e intermediários do Quarto
+_quarto/
+_freeze/
+
+# Metadados do projeto Quarto (geralmente não é necessário ignorar _quarto.yml)
+
+# --- Arquivos específicos do R (se estiver usando R) ---
+
+# Configurações do projeto RStudio
+.Rproj.user/
+
+# Arquivos de histórico e dados do R
+.Rhistory
+.RData
+.Ruserdata
+
+# Arquivos de gerenciamento de dependências renv
+renv/library/
+renv/staging/
+# renv.lock geralmente DEVE ser versionado, mas ignore se seu fluxo for diferente
+
+# Arquivos de gerenciamento de dependências packrat
+packrat/lib*/
+packrat/src/
+packrat/bundles/
+
+# --- Arquivos específicos do Python (se estiver usando Python) ---
+
+# Cache do Python e arquivos compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribuição / Empacotamento
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Ambientes Virtuais
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# --- Arquivos Gerais e do Sistema Operacional ---
+
+# Arquivos do macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Arquivos do Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Arquivos temporários de editores comuns
+*~
+*.swp
+*.swo
+
+# Configurações de IDEs
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de Log
+*.log
+
+# Arquivos de variáveis de ambiente (podem conter segredos!)
+.env*
+
+# --- Arquivos de Dados Grandes (ADICIONE OS SEUS AQUI!) ---
+# É uma boa prática não versionar arquivos de dados muito grandes.
+# Adicione os caminhos para seus datasets ou arquivos pesados abaixo:
+# ex: data/meu_dataset_grande.csv
+# ex: assets/videos/

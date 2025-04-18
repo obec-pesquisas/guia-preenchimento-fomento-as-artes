@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 18aedb38-1fbd-4efb-a2c1-12c974f4cc0f
+      url: 'https://obec-ba.quarto.pub/funarte'

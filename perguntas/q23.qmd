@@ -1,0 +1,17 @@
+# Pergunta 23
+
+## Enunciado
+
+Favor anexar os editais publicados com recursos da LPG em 2023 e 2024 (junte os arquivos em um único PDF).
+
+## Explicação
+
+Nesta pergunta, você precisa reunir todos os editais publicados com recursos da Lei Paulo Gustavo  e, em seguida, anexá-los no campo especificado.
+
+### Instruções
+
+* Identifique todos os editais que foram publicados com recursos da Lei Paulo Gustavo (LPG).
+* Faça o upload dos documentos em formato PDF em um único arquivo de até 2 MB.
+* Utilize um software ou ferramenta online para juntar os arquivos PDF em até 2 MB, ou comprimir  arquivos caso seja necessário. Você pode usar [www.ilovepdf.com](https://www.ilovepdf.com/), [pdftk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) ou [Adobe Acrobat](https://www.adobe.com/br/acrobat.html).
+* É possível anexar até 20 arquivos, com o tamanho máximo de 2 MB por arquivo.
+

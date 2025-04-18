@@ -1,0 +1,23 @@
+# Pergunta 12
+
+## Enunciado
+
+Para além da Lei Aldir Blanc (LAB) e da Lei Paulo Gustavo (LPG), o órgão gestor realizou chamadas públicas (editais, premiações, etc) para as artes em 2023?
+
+* Sim
+* Não
+
+Se sim, anexar os instrumentos específicos (junte os arquivos em um único arquivo PDF).
+
+## Explicação
+
+Esta questão busca verificar se o órgão gestor realizou chamadas públicas (como editais e premiações) para as artes em 2023, com outros recursos que não aqueles advindos das Leis Aldir Blanc e Paulo Gustavo e, em caso afirmativo, coletar esses documentos para análise.
+
+### Instruções
+
+* Verifique se o órgão realizou chamadas públicas para as artes em 2023, além da LAB e da LPG, e selecione a opção correspondente.
+* Caso tenha marcado a opção "Sim", será necessário anexar os instrumentos específicos.
+* Faça o upload dos documentos em formato PDF.
+* Utilize um software ou ferramenta online para juntar os arquivos PDF em até 2 MB, ou comprimir  arquivos caso seja necessário. Você pode usar [www.ilovepdf.com](https://www.ilovepdf.com/), [pdftk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) ou [Adobe Acrobat](https://www.adobe.com/br/acrobat.html).
+* É possível anexar até 20 arquivos, com o tamanho máximo de 2 MB por arquivo.
+

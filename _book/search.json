@@ -1,0 +1,872 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pesquisa Fomento às Artes no Brasil",
+    "section": "",
+    "text": "Leia-me\nA pesquisa “Fomento às Artes no Brasil”, desenvolvida pelo Observatório da Economia Criativa da Bahia (OBEC) e pela Fundação Nacional de Artes (FUNARTE), através de um convênio com a Universidade Federal do Recôncavo da Bahia (UFRB) e a Universidade Federal da Bahia (UFBA), nasce no contexto de retomada do Ministério da Cultura e da Funarte, com a restituição de políticas públicas e de espaços de participação social, no movimento da implementação da Política Nacional das Artes (PNA).\nDiante da carência de informações sobre o panorama nacional das políticas e da gestão das artes, especialmente das ações de fomento executadas por estados e municípios, a pesquisa se propõe a evidenciar dados quantitativos e qualitativos, subsidiando os processos decisórios e a pactuação federativa de atribuições e responsabilidades para a implementação da PNA.\nA ideia desse texto é fornecer a você orientações para responder o formulário de coleta que faz parte da pesquisa “Fomento às Artes no Brasil”, e é composto por 26 questões. As questões envolvem a digitação de números, seleção de respostas entre opções pré-estabelecidas, e solicitação para anexar documentos em pdf.\nEste questionário foi construído usando a ferramenta Research Eletronic Data Capture (REDCap), construída inicialmente pela Universidade de Vanderbilt em 2004. Em 2006, o Consórcio REDCAP foi lançado para melhorar a ferramenta e disseminar o seu uso. REDCap é uma ferramenta gratuita, de código fechado, e qualquer instituição vinculada ao Consórcio REDCAP consegue instalá-la e usá-la. Atualmente, 7299 instituições de pesquisa usam a ferramenta e 2,1 milhões de pesquisas já utilizaram o REDCap como instrumento de coleta de dados.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Leia-me</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#tipos-de-arquivos-e-limites-de-tamanho",
+    "href": "index.html#tipos-de-arquivos-e-limites-de-tamanho",
+    "title": "Pesquisa Fomento às Artes no Brasil",
+    "section": "Tipos de arquivos e limites de tamanho",
+    "text": "Tipos de arquivos e limites de tamanho\nEm diversas questões, será necessário anexar um ou mais arquivos em formato pdf.\nPara cada questão é permitido anexar até 20 arquivos de 2MB cada.\nPara responder às perguntas reúna seus arquivos em um documento único até o limite de 2MB.\nCaso 2MB não sejam suficientes para apresentar todos os aquivos necessários ao conteúdo para a resposta, reúna os demais arquivos em tantos quantos forem os pdfs necessários, até o limite de 20.\nInclua apenas arquivos no formato pdf , não anexe outros formatos como arquivos do word ou imagens.\nExistem diversas ferramentas online para juntar arquivos como, por exemplo, www.ilovepdf.com (gratuito e online), pdftk (gratuito e offline) e Adobe Acrobat (pago e offline).",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Leia-me</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#palavras-e-termos-em-inglês",
+    "href": "index.html#palavras-e-termos-em-inglês",
+    "title": "Pesquisa Fomento às Artes no Brasil",
+    "section": "Palavras e termos em inglês",
+    "text": "Palavras e termos em inglês\nO REDCAP foi desenvolvido por pesquisadores da Universidade de Vanderbilt nos Estados Unidos da América, e, por este motivo, vários avisos e botões da ferramenta também estão em inglês. Na tabela Tabela 1.1, temos a tradução destes termos.\n\n\n\nTabela 1.1: Tabela de-para para termos em inglês no REDCAP.\n\n\n\n\n\n\n\n\n\nTermo em inglês no REDCAP\nTradução para Português\n\n\n\n\nPrevious\nPágina anterior\n\n\nNext\nPróxima página\n\n\nSave e return later\nSalve e volte depois\n\n\nSubmit\nEnviar\n\n\nUpload file\nCarregue um arquivo pdf\n\n\nUpload new file\nSubstitua o arquivo pdf\n\n\nRemove file\nRetire o arquivo pdf\n\n\nResize font\nMude o tamanho da fonte\n\n\nMust provide value\nPergunta obrigatória\n\n\nCannot select choice! The maximum number of choices has been selected.\nSelecione apenas três alternativas!\n\n\nClose survey\nFeche o questionário\n\n\nDownload\nBaixe\n\n\nDownload your survey response (PDF)\nBaixe as respostas fornecidas em formato pdf.\n\n\nYou may close this tab/window\nFeche esta aba ou janela",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Leia-me</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#pausa-e-continuação-no-preenchimento",
+    "href": "index.html#pausa-e-continuação-no-preenchimento",
+    "title": "Pesquisa Fomento às Artes no Brasil",
+    "section": "Pausa e continuação no preenchimento",
+    "text": "Pausa e continuação no preenchimento\nVocê pode pausar o preenchimento e retormar o preenchimento depois.\nCaso opte por pausar o preenchimento, você precisará usar o return code (código de retorno) para continuar o preenchimento depois: basta inserir o valor no espaço em branco como mostrado na região dentro do quadrado preto na Figura 1.1. Se você não souber o return code, contate um pesquisador OBEC para obter esse código: cada Estado e Município tem o seu próprio return code. Consulte Tabela 1.3 e Tabela 1.2 para obter o número de celular com WhatsApp dos pesquisadores do OBEC.\nSe você clicar em start over (recomeçar) como mostrado na região dentro do quarto vermelho na Figura 1.1, todas as informações incluídas anteriormente serão apagadas e você começará responder o questionário a partir da primeira pergunta.\n\n\n\n\n\n\nFigura 1.1: Pausa e continuação no preenchimento do formulário.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Leia-me</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#organização",
+    "href": "index.html#organização",
+    "title": "Pesquisa Fomento às Artes no Brasil",
+    "section": "Organização",
+    "text": "Organização\nO formulário de coleta está organizado em seções para facilitar o preenchimento:\n\nPRELIMINARES\n\nTermo de Consentimento Livre e Consentido\n\nESTRUTURA ORGANIZACIONAL - SECRETARIA OU ÓRGÃO MÁXIMO RESPONSÁVEL PELA POLÍTICA E GESTÃO CULTURAL\n\nPergunta 1\n\nESTRUTURA ORGANIZACIONAL - SECRETARIA OU ÓRGÃO MÁXIMO RESPONSÁVEL PELA POLÍTICA E GESTÃO CULTURAL\n\nPergunta 2\nPergunta 3\nPergunta 4\nPergunta 5\n\nORÇAMENTO\n\nPergunta 6\n\nPOLÍTICAS CULTURAIS\n\nPergunta 7\nPergunta 8\nPergunta 9\n\nSISTEMA DE FINANCIAMENTO À CULTURA\n\nPergunta 10\nPergunta 11\nPergunta 12\n\nAVALIAÇÃO E MONITORAMENTO\n\nPergunta 13\nPergunta 14\n\nMECANISMOS - Lei Aldir Blanc (LAB)\n\nPergunta 15\nPergunta 16\nPergunta 17\nPergunta 18\nPergunta 19\nPergunta 20\n\nMECANISMOS - Lei Paulo Gustavo (LPG)\n\nPergunta 21\nPergunta 22\nPergunta 23\nPergunta 24\nPergunta 25\nPergunta 26",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Leia-me</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#contato---obec",
+    "href": "index.html#contato---obec",
+    "title": "Pesquisa Fomento às Artes no Brasil",
+    "section": "Contato - OBEC",
+    "text": "Contato - OBEC\n\nEstados\n\n\n\nTabela 1.2: Tabela de contatos de pesquisadores(as) do OBEC que estarão em comunicação direta com os Estados.\n\n\n\n\n\nNome do(a) pesquisador(a)\nCelular (WhatsApp)\nEstados\n\n\n\n\nAmanda\n(41)99720-3041\nParaíba, Sergipe, Paraná, Rio Grande do Sul e Santa Catarina\n\n\nJalinson\n(83)99928-0588\nBahia, Ceará, Maranhão, Espírito Santo, Minas Gerais e Rio de Janeiro\n\n\nKelvin\n(75)98110-0202\nPernambuco, Acre, Amazonas, Pará, Roraima, Amapá, Tocantins\n\n\nLorena\n(75)99264-1507\nAlagoas, Piauí, Rio Grande do Norte, Mato Grosso do Sul, Distrito Federal, Mato Grosso, Goiás, São Paulo\n\n\n\n\n\n\n\n\nMunicípios\n\n\n\n\nTabela 1.3: Tabela de contatos de pesquisadores(as) do OBEC que estarão em comunicação direta com os Municípios.\n\n\n\n\n\n\nNome do(a) pesquisador(a)\nCelular (WhatsApp)\nUF\nMunicípio\n\n\n\n\nKelvin Jordan\n(75)98110-0202\nAC\nCruzeiro do Sul\n\n\nKelvin Jordan\n(75)98110-0202\nAC\nRio Branco\n\n\nRodrigo Mota\n(71)99256-7626\nAL\nMaceió\n\n\nLorena Cerqueira\n(75)99264-1507\nAL\nSão Miguel dos Campos\n\n\nRodrigo Mota\n(71)99256-7626\nAM\nBarreirinha\n\n\nKelvin Jordan\n(75)98110-0202\nAM\nManacapuru\n\n\nKelvin Jordan\n(75)98110-0202\nAP\nLaranjal do Jari\n\n\nClarissa Narai\n(71)99972-4062\nAP\nMacapá\n\n\nKelvin Jordan\n(75)98110-0202\nBA\nFeira de Santana\n\n\nKelvin Jordan\n(75)98110-0202\nBA\nGavião\n\n\nKelvin Jordan\n(75)98110-0202\nBA\nIbirapitanga\n\n\nKelvin Jordan\n(75)98110-0202\nBA\nSalvador\n\n\nJalinson Silva\n(83) 99928-0588\nCE\nIcapuí\n\n\nClarissa Narai\n(71)99972-4062\nES\nJerônimo Monteiro\n\n\nClarissa Narai\n(71)99972-4062\nES\nMarataízes\n\n\nRodrigo Mota\n(71)99256-7626\nES\nSão Mateus\n\n\nClarissa Narai\n(71)99972-4062\nES\nViana\n\n\nClarissa Narai\n(71)99972-4062\nES\nVila Pavão\n\n\nClarissa Narai\n(71)99972-4062\nES\nVitória\n\n\nRodrigo Mota\n(71)99256-7626\nGO\nAparecida de Goiânia\n\n\nRodrigo Mota\n(71)99256-7626\nGO\nNovo Gama\n\n\nLorena Cerqueira\n(75)99264-1507\nGO\nQuirinópolis\n\n\nJalinson Silva\n(83) 99928-0588\nMG\nAndrelândia\n\n\nJalinson Silva\n(83) 99928-0588\nMG\nBelo Horizonte\n\n\nJalinson Silva\n(83) 99928-0588\nMG\nContagem\n\n\nJalinson Silva\n(83) 99928-0588\nMG\nJuiz de Fora\n\n\nJalinson Silva\n(83) 99928-0588\nMG\nPará de Minas\n\n\nJalinson Silva\n(83) 99928-0588\nMG\nPouso Alegre\n\n\nClarissa Narai\n(71)99972-4062\nMG\nPoços de Caldas\n\n\nLorena Cerqueira\n(75)99264-1507\nMS\nCampo Grande\n\n\nLorena Cerqueira\n(75)99264-1507\nMS\nJateí\n\n\nLorena Cerqueira\n(75)99264-1507\nMS\nPonta Porã\n\n\nLorena Cerqueira\n(75)99264-1507\nMS\nRochedo\n\n\nLorena Cerqueira\n(75)99264-1507\nMS\nTrês Lagoas\n\n\nRodrigo Mota\n(71)99256-7626\nMT\nNova Monte Verde\n\n\nRodrigo Mota\n(71)99256-7626\nMT\nSanta Rita do Trivelato\n\n\nKelvin Jordan\n(75)98110-0202\nPA\nBelém\n\n\nKelvin Jordan\n(75)98110-0202\nPA\nItaituba\n\n\nKelvin Jordan\n(75)98110-0202\nPA\nOurém\n\n\nKelvin Jordan\n(75)98110-0202\nPA\nSanta Bárbara do Pará\n\n\nRodrigo Mota\n(71)99256-7626\nPB\nCampina Grande\n\n\nAmanda Haubert\n(41) 99720-3041\nPB\nJoão Pessoa\n\n\nLorena Cerqueira\n(75)99264-1507\nPB\nSertãozinho\n\n\nJalinson Silva\n(83) 99928-0588\nPE\nAlagoinha\n\n\nRodrigo Mota\n(71)99256-7626\nPE\nCamaragibe\n\n\nRodrigo Mota\n(71)99256-7626\nPE\nJaboatão dos Guararapes\n\n\nKelvin Jordan\n(75)98110-0202\nPE\nRecife\n\n\nLorena Cerqueira\n(75)99264-1507\nPE\nTimbaúba\n\n\nLorena Cerqueira\n(75)99264-1507\nPI\nVila Nova do Piauí\n\n\nRodrigo Mota\n(71)99256-7626\nPR\nColombo\n\n\nAmanda Haubert\n(41) 99720-3041\nPR\nCuritiba\n\n\nClarissa Narai\n(71)99972-4062\nPR\nFoz do Jordão\n\n\nAmanda Haubert\n(41) 99720-3041\nPR\nFrancisco Beltrão\n\n\nAmanda Haubert\n(41) 99720-3041\nPR\nLondrina\n\n\nAmanda Haubert\n(41) 99720-3041\nPR\nNova Fátima\n\n\nAmanda Haubert\n(41) 99720-3041\nPR\nPérola\n\n\nAmanda Haubert\n(41) 99720-3041\nPR\nSanto Antônio da Platina\n\n\nJalinson Silva\n(83) 99928-0588\nRJ\nDuas Barras\n\n\nJalinson Silva\n(83) 99928-0588\nRJ\nNiterói\n\n\nJalinson Silva\n(83) 99928-0588\nRJ\nNova Friburgo\n\n\nJalinson Silva\n(83) 99928-0588\nRJ\nRio de Janeiro\n\n\nLorena Cerqueira\n(75)99264-1507\nRN\nRiacho da Cruz\n\n\nClarissa Narai\n(71)99972-4062\nRO\nPorto Velho\n\n\nJalinson Silva\n(83) 99928-0588\nRR\nBoa Vista\n\n\nAmanda Haubert\n(41) 99720-3041\nRS\nEntre\n\n\nAmanda Haubert\n(41) 99720-3041\nRS\nFlores da Cunha\n\n\nAmanda Haubert\n(41) 99720-3041\nRS\nNovo Hamburgo\n\n\nAmanda Haubert\n(41) 99720-3041\nRS\nPorto Alegre\n\n\nAmanda Haubert\n(41) 99720-3041\nRS\nSão Borja\n\n\nAmanda Haubert\n(41) 99720-3041\nSC\nAbdon Batista\n\n\nClarissa Narai\n(71)99972-4062\nSC\nFlorianópolis\n\n\nClarissa Narai\n(71)99972-4062\nSC\nJoinville\n\n\nClarissa Narai\n(71)99972-4062\nSE\nSimão Dias\n\n\nClarissa Narai\n(71)99972-4062\nSP\nAmparo\n\n\nLorena Cerqueira\n(75)99264-1507\nSP\nCachoeira Paulista\n\n\nClarissa Narai\n(71)99972-4062\nSP\nItaberá\n\n\nLorena Cerqueira\n(75)99264-1507\nSP\nRibeirão Preto\n\n\nLorena Cerqueira\n(75)99264-1507\nSP\nSuzano\n\n\nLorena Cerqueira\n(75)99264-1507\nSP\nSão Paulo\n\n\nKelvin Jordan\n(75)98110-0202\nTO\nAraguaína\n\n\nClarissa Narai\n(71)99972-4062\nTO\nGurupi\n\n\nRodrigo Mota\n(71)99256-7626\nTO\nLavandeira\n\n\nKelvin Jordan\n(75)98110-0202\nTO\nPalmas\n\n\nRodrigo Mota\n(71)99256-7626\nTO\nPeixe\n\n\nRodrigo Mota\n(71)99256-7626\nTO\nPorto Nacional",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Leia-me</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/termo.html",
+    "href": "perguntas/termo.html",
+    "title": "Termo de Consentimento Livre e Esclarecido do/a respondente, do/a profissional e da organização",
+    "section": "",
+    "text": "Enunciado\nRessaltamos que a sua participação é voluntária, não havendo penalidades decorrentes de sua desistência a qualquer momento. Os dados coletados serão tratados sempre de forma agrupada, protegendo a identidade do/a respondente, do/a profissional e da organização, e será considerada a lei vigente sobre segurança e proteção de dados, a Lei Federal nº 13.709/2018, Lei Geral de Proteção de Dados (LGPD). Todos os dados serão armazenados e ficarão sob a responsabilidade do Observatório de Economia Criativa da Bahia, entidade sediada na Universidade Federal da Bahia. Ao prosseguir neste questionário, você declara ter lido e entendido todas as informações repassadas e indica que concorda em participar desta pesquisa. Além disso, suas respostas serão salvas, permitindo que você retome o preenchimento posteriormente, se necessário.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Termo de consentimento</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/termo.html#enunciado",
+    "href": "perguntas/termo.html#enunciado",
+    "title": "Termo de Consentimento Livre e Esclarecido do/a respondente, do/a profissional e da organização",
+    "section": "",
+    "text": "ACEITO PARTICIPAR - Declaro minha ciência sobre os procedimentos desta pesquisa e minha condição voluntária de participante.\nEu não concordo em participar.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Termo de consentimento</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/termo.html#explicação",
+    "href": "perguntas/termo.html#explicação",
+    "title": "Termo de Consentimento Livre e Esclarecido do/a respondente, do/a profissional e da organização",
+    "section": "Explicação",
+    "text": "Explicação\n\nConsentimento Livre e Esclarecido\nAo participar da pesquisa, você declara ter lido e entendido todas as informações repassadas e concorda com os termos descritos acima. Ressaltamos que a sua participação é voluntária e você pode desistir a qualquer momento sem nenhum tipo de penalidade.\n\n\nConfidencialidade e Segurança dos Dados\nOs seus dados serão coletados e armazenados de forma sigilosa e segura. A identidade do/a respondente, do/a profissional e da organização será protegida e os dados serão tratados apenas de forma agrupada, não permitindo a identificação individual.\n\n\nResponsabilidade pelos Dados\nO Observatório de Economia Criativa da Bahia, entidade sediada na Universidade Federal da Bahia, é responsável pela coleta, armazenamento e tratamento dos dados coletados.\n\n\nArmazenamento dos Dados\nOs seus dados serão armazenados em um ambiente seguro e controlado pelo Observatório de Economia Criativa da Bahia. O acesso aos dados será restrito a um número limitado de pessoas autorizadas.\n\n\nRespondendo à Pergunta\nAgora que você está ciente de todos os aspectos da pesquisa, você pode responder à pergunta:\nACEITO PARTICIPAR - Declaro minha ciência sobre os procedimentos desta pesquisa e minha condição voluntária de participante.\nAo clicar em “ACEITO PARTICIPAR”, você estará confirmando sua participação na pesquisa e concordando com todos os termos descritos neste manual.\n\n\nEu não concordo em participar\nAo clicar em “Não”, você estará informando que não deseja participar da pesquisa.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Termo de consentimento</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q1.html",
+    "href": "perguntas/q1.html",
+    "title": "Pergunta 1",
+    "section": "",
+    "text": "Enunciado\nComo estava organizado o órgão gestor da cultura no estado/município no ano de 2023? (Estrutura, departamentos, divisões, etc). Apresentar organograma ou relação de cargos.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Pergunta 1</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q1.html#enunciado",
+    "href": "perguntas/q1.html#enunciado",
+    "title": "Pergunta 1",
+    "section": "",
+    "text": "Insira o arquivo PDF de até 2MB",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Pergunta 1</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q1.html#explicação",
+    "href": "perguntas/q1.html#explicação",
+    "title": "Pergunta 1",
+    "section": "Explicação",
+    "text": "Explicação\nO objetivo dessa questão é entender como estava estruturado o órgão gestor da cultura em 2023, por meio de um organograma ou lista de cargos. Para responder à pergunta de forma completa e precisa, é necessário incluir as seguintes informações:\nOrganograma atualizado: Anexe o organograma atualizado do órgão gestor da cultura no ano de 2023. Relação de Cargos: Forneça uma lista detalhada dos cargos e funções existentes no órgão gestor da cultura em 2023.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Pergunta 1</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q1.html#instruções",
+    "href": "perguntas/q1.html#instruções",
+    "title": "Pergunta 1",
+    "section": "Instruções",
+    "text": "Instruções\n\nFaça o upload do documento em formato PDF.\nUtilize um software ou ferramenta online para juntar os arquivos PDF em até 2MB, ou comprimir arquivos caso seja necessário. Você pode usar www.ilovepdf.com, pdftk ou Adobe Acrobat.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Pergunta 1</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q2.html",
+    "href": "perguntas/q2.html",
+    "title": "Pergunta 2",
+    "section": "",
+    "text": "Enunciado\nQual o tipo do principal organismo responsável pela gestão das artes?",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Pergunta 2</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q2.html#enunciado",
+    "href": "perguntas/q2.html#enunciado",
+    "title": "Pergunta 2",
+    "section": "",
+    "text": "Coordenadoria\nDepartamento\nDiretoria\nFundação\nGerência\nSecretaria\nSubsecretaria\nSuperintendência\nOutro(s). Especifique:",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Pergunta 2</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q2.html#explicação",
+    "href": "perguntas/q2.html#explicação",
+    "title": "Pergunta 2",
+    "section": "Explicação",
+    "text": "Explicação\nEsta pergunta tem como objetivo auxiliar na identificação do tipo do organismo, responsável pela gestão das artes em seu estado ou município.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Pergunta 2</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q2.html#instruções",
+    "href": "perguntas/q2.html#instruções",
+    "title": "Pergunta 2",
+    "section": "Instruções",
+    "text": "Instruções\n\nAnalise as opções: Leia atentamente cada uma das opções apresentadas.\nSelecione apenas uma opção: identifique o tipo de organismo responsável pela gestão das artes em seu estado ou município. Por favor, busque similaridades como os seguintes exemplos: no caso de “Coordenação”, selecione “Coordenadoria”; no caso de “Direção”, selecione “Diretoria”, e assim por diante.\nOpção “Outro(s)”: Marque esta opção somente se não houver nenhuma nomenclatura adequada entre as já listadas e especifique sua escolha.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Pergunta 2</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q3.html",
+    "href": "perguntas/q3.html",
+    "title": "Pergunta 3",
+    "section": "",
+    "text": "Enunciado\nQual o nome do principal organismo responsável pela gestão das artes?",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Pergunta 3</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q3.html#enunciado",
+    "href": "perguntas/q3.html#enunciado",
+    "title": "Pergunta 3",
+    "section": "",
+    "text": "(campo para resposta aberta de texto)",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Pergunta 3</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q3.html#explicação",
+    "href": "perguntas/q3.html#explicação",
+    "title": "Pergunta 3",
+    "section": "Explicação",
+    "text": "Explicação\nNo campo de resposta aberta do questionário, digite o nome completo do organismo, integrante do órgão de cultura, responsável pela gestão das artes em seu estado ou município.\nPriorize responder exatamente como é mencionado no organograma. Caso o órgão não conste no organograma, responda com o título exato que lhe é atribuído na estrutura administrativa.\n\nObservações importantes\n\nSeja o mais específico possível ao informar o nome, incluindo a sigla do organismo, caso exista.\nEvite abreviações ou termos genéricos que possam gerar ambiguidade.\nCertifique-se de que o nome informado esteja correto e atualizado.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Pergunta 3</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q4.html",
+    "href": "perguntas/q4.html",
+    "title": "Pergunta 4",
+    "section": "",
+    "text": "Enunciado\nCaso existam outros organismos responsáveis pela gestão das artes, informar o título e função.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Pergunta 4</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q4.html#enunciado",
+    "href": "perguntas/q4.html#enunciado",
+    "title": "Pergunta 4",
+    "section": "",
+    "text": "(campo para resposta aberta de texto)",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Pergunta 4</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q4.html#explicação",
+    "href": "perguntas/q4.html#explicação",
+    "title": "Pergunta 4",
+    "section": "Explicação",
+    "text": "Explicação\nResponda a esta pergunta somente se, além do órgão identificado na pergunta 3 como gestor das artes, houver outro organismo específico envolvido na gestão das artes no seu estado ou município. Caso a gestão das artes seja exclusiva do órgão mencionado na pergunta 3, avance para a próxima questão do questionário.\n\nInstruções\n\nSeja o mais específico possível ao informar o título e a função, incluindo a sigla do organismo, caso exista.\nEvite abreviações ou termos genéricos que possam gerar ambiguidade.\nCertifique-se de que as informações estejam corretas e atualizadas.\n\n\n\nExemplo\nSe, além da Diretoria de Artes da Secretaria de Estado de Cultura, a Fundação de Amparo à Pesquisa e à Cultura (FAPC) também estiver envolvida na gestão das artes, atuando no financiamento de projetos artísticos e culturais, na promoção de pesquisas ou na realização de eventos culturais, inclua as seguintes informações:\n\nNome do Organismo: Fundação de Amparo à Pesquisa e à Cultura (FAPC)\nFunções e Responsabilidades: Financiamento de projetos artísticos e culturais, promoção de pesquisas e realização de eventos culturais.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Pergunta 4</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q5.html",
+    "href": "perguntas/q5.html",
+    "title": "Pergunta 5",
+    "section": "",
+    "text": "Enunciado\nQuais linguagens artísticas estão sob a responsabilidade do(s) organismo(s) gestor(es) das artes mencionado(s) nas questões 3 e 4? (múltipla escolha)",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Pergunta 5</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q5.html#enunciado",
+    "href": "perguntas/q5.html#enunciado",
+    "title": "Pergunta 5",
+    "section": "",
+    "text": "Artes Visuais\nAudiovisual\nCirco\nDança\nLiteratura\nMúsica\nTeatro\nOutra(s). Especifique:",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Pergunta 5</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q5.html#explicação",
+    "href": "perguntas/q5.html#explicação",
+    "title": "Pergunta 5",
+    "section": "Explicação",
+    "text": "Explicação\nEsta pergunta tem como objetivo identificar as linguagens artísticas que estão sob a responsabilidade do órgão gestor das artes em seu estado ou município.\n\nInstruções\n\nAnalise as opções: Leia atentamente cada uma das opções apresentadas.\nSelecione as opções: Escolha as que correspondem às linguagens artísticas sob a responsabilidade do(s) organismo(s) gestor(es).\nOpção “Outra(s)”: Marque esta opção somente se o órgão gestor das artes também atuar em linguagens artísticas não listadas e especifique quais.\n\n\n\nDescrição das Linguagens Artísticas\nArtes Visuais: Pintura, escultura, desenho, gravura, fotografia, instalações e outras formas de expressão artística que utilizam elementos visuais.\nAudiovisual: Cinema, televisão, vídeo, webmedia e outras formas de expressão artística que combinam imagens e sons em movimento.\nCirco: Manifestação artística que combina acrobacias, palhaçadas, números musicais e outras atrações.\nDança: Linguagem artística que utiliza o corpo humano como meio de expressão, através de movimentos, gestos e coreografias.\nLiteratura: Criação de textos ficcionais, poéticos, dramatúrgicos e outros, com valor artístico e literário.\nMúsica: Arte de combinar sons e silêncios, com o objetivo de criar melodias, harmonias e ritmos.\nTeatro: Arte cênica que apresenta histórias e personagens ao vivo para um público, utilizando a atuação, a encenação e outros recursos teatrais.\nOutras linguagens: Se o órgão gestor das artes também atuar em outras áreas artísticas não listadas acima, marque a opção “Outra(s)” e descreva brevemente a linguagem artística em questão no campo de resposta aberta.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Pergunta 5</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q6.html",
+    "href": "perguntas/q6.html",
+    "title": "Pergunta 6",
+    "section": "",
+    "text": "Enunciado\nComo foi o processo decisório para a definição das prioridades e a alocação dos recursos do orçamento do órgão gestor da cultura no estado/município no ano de 2023? Utilize os números de 1 (menos incidente) a 5 (mais incidente) ou N/A (não se aplica).\nOutra(s). Especifique:",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Pergunta 6</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q6.html#enunciado",
+    "href": "perguntas/q6.html#enunciado",
+    "title": "Pergunta 6",
+    "section": "",
+    "text": "O processo buscou atender a lacunas de investimentos nos exercícios anteriores, identificados em pesquisas e diagnósticos técnicos e nas necessidades específicas de cada setor.\nAs decisões foram baseadas nos planos setoriais, nos documentos técnicos e de planejamento, como metas de desempenho, e na análise da viabilidade técnica da gestão, com pouca interferência política.\nO processo foi centralizado, com decisões tomadas pela pessoa dirigente ou grupo responsável pelo órgão de cultura, com pouca ou nenhuma consulta aos setores.\nO processo foi colaborativo, com a participação ativa de representantes dos setores artísticos, que contribuíram para a definição das prioridades e a distribuição dos recursos.\nA alocação e distribuição dos recursos foram influenciadas por pressões políticas internas ou externas, resultando em decisões que não seguiram estritamente critérios técnicos ou participativos.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Pergunta 6</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q6.html#explicação",
+    "href": "perguntas/q6.html#explicação",
+    "title": "Pergunta 6",
+    "section": "Explicação",
+    "text": "Explicação\nPara responder a esta questão, leia atentamente cada opção fornecida e avalie como elas se aplicam ao processo decisório do órgão gestor da cultura no seu contexto específico. Em seguida, escolha um número de 1 a 5 para indicar a característica mais condizente com o processo decisório, onde 1 representa a característica menos incidente e 5 a mais incidente. Se a opção não se aplicar ao processo decisório na alocação dos recursos no ano de 2023, marque “N/A”.\nCaso nenhuma das opções reflita características condizentes com o processo decisório do ente, selecione ‘Outra(s)’ e forneça uma descrição detalhada do processo não contemplado pelas opções anteriores, incluindo como as prioridades foram definidas, os recursos alocados e quaisquer informações adicionais relevantes.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Pergunta 6</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q7.html",
+    "href": "perguntas/q7.html",
+    "title": "Pergunta 7",
+    "section": "",
+    "text": "Enunciado\nExiste Plano de Cultura desenvolvido pelo órgão gestor da cultura no estado/município?\nSe sim, anexe o Plano de Cultura.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Pergunta 7</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q7.html#enunciado",
+    "href": "perguntas/q7.html#enunciado",
+    "title": "Pergunta 7",
+    "section": "",
+    "text": "Sim\nNão\nEm elaboração",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Pergunta 7</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q7.html#explicação",
+    "href": "perguntas/q7.html#explicação",
+    "title": "Pergunta 7",
+    "section": "Explicação",
+    "text": "Explicação\nEsta questão busca verificar a existência de Planos de Cultura nos entes investigados e, caso existam, coletar esses documentos para análise.\n\nEntendendo o que são Planos de Cultura\nPlanos de Cultura são instrumentos de planejamento estratégico desenvolvidos por organizações culturais, constituídos por um conjunto de diretrizes, objetivos, estratégias, metas e ações, que visam orientar a implementação de políticas culturais.\n\n\nInstruções\n\nVerifique a existência de um plano de cultura em seu órgão e selecione a opção correspondente.\nCaso tenha marcado a opção “Sim”, será necessário anexar o Plano de Cultura encontrado.\nFaça o upload do documento em formato PDF.\nUtilize um software ou ferramenta online para juntar os arquivos PDF em até 2 MB, ou comprimir arquivos caso seja necessário. Você pode usar www.ilovepdf.com, pdftk ou Adobe Acrobat.\nÉ possível anexar até 20 arquivos, com o tamanho máximo de 2 MB por arquivo.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Pergunta 7</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q8.html",
+    "href": "perguntas/q8.html",
+    "title": "Pergunta 8",
+    "section": "",
+    "text": "Enunciado\nExistem Planos Setoriais para as artes?\nSe sim, anexe os Planos Setoriais para as artes (junte os arquivos em um único PDF).",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Pergunta 8</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q8.html#enunciado",
+    "href": "perguntas/q8.html#enunciado",
+    "title": "Pergunta 8",
+    "section": "",
+    "text": "Sim\nNão\nEm elaboração",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Pergunta 8</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q8.html#explicação",
+    "href": "perguntas/q8.html#explicação",
+    "title": "Pergunta 8",
+    "section": "Explicação",
+    "text": "Explicação\nEsta questão busca verificar a existência de planos setoriais específicos para as áreas das artes e, caso existam, coletar esses documentos para análise.\n\nEntendendo o que são planos setoriais\nPlanos setoriais são documentos que definem diretrizes, objetivos, metas e ações para o desenvolvimento de áreas específicas da cultura, como artes visuais, música, teatro, dança e outras linguagens artísticas. Eles visam orientar as políticas públicas e ações de fomento para cada setor.\n\n\nInstruções\n\nVerifique a existência de planos setoriais em seu órgão e selecione a opção correspondente.\nCaso tenha marcado a opção “Sim”, será necessário anexar os planos setoriais encontrados.\nCaso existam planos setoriais para diferentes áreas das artes (artes visuais, música, teatro, etc.), anexe os documentos correspondentes no campo indicado.\nFaça o upload do documento em formato PDF.\nUtilize um software ou ferramenta online para juntar os arquivos PDF em até 2 MB, ou comprimir arquivos caso seja necessário. Você pode usar www.ilovepdf.com, pdftk ou Adobe Acrobat.\nÉ possível anexar até 20 arquivos, com o tamanho máximo de 2 MB por arquivo.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Pergunta 8</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q9.html",
+    "href": "perguntas/q9.html",
+    "title": "Pergunta 9",
+    "section": "",
+    "text": "Enunciado\nQuais são os principais desafios enfrentados na implementação da política para as artes? (Assinale até três opções)",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Pergunta 9</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q9.html#enunciado",
+    "href": "perguntas/q9.html#enunciado",
+    "title": "Pergunta 9",
+    "section": "",
+    "text": "Ausência de indicadores de avaliação eficazes\nBurocracia excessiva\nCarência de formação e qualificação profissional\nDificuldade em realizar processos de consulta e participação da sociedade\nEstrutura deficiente do órgão\nFalhas na comunicação entre o ente e a sociedade civil\nFinanciamento insuficiente para a implementação da política\nInfluência política no processo decisório\nLimitações na articulação e apoio dos órgãos de controle e outras instâncias decisórias\nNão foram identificados desafios\nOutro(s). Especifique:",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Pergunta 9</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q9.html#explicação",
+    "href": "perguntas/q9.html#explicação",
+    "title": "Pergunta 9",
+    "section": "Explicação",
+    "text": "Explicação\nEsta pergunta busca identificar os principais desafios estruturais e operacionais enfrentados na implementação de políticas para as artes no seu estado/município.\n\nInstruções\n\nAnalise as opções: Leia atentamente cada uma das opções apresentadas.\nSelecione até três opções: Escolha as opções que, em sua experiência ou conhecimento, representam os desafios mais significativos para a implementação da política para as artes.\nOpção “Não foram identificados desafios”: Marque esta opção somente se você considerar que não houve desafios no processo de implementação da política para as artes.\nOpção “Outro(s)”: Marque esta opção apenas se houver um ou mais desafios não listados, e especifique sua escolha.\n\n\n\nDescrição das alternativas\n\nAusência de indicadores de avaliação eficazes: Sinaliza a ausência de ferramentas adequadas para medir o impacto e os resultados da política, o que dificulta o monitoramento e o aprimoramento das ações.\nBurocracia excessiva: Apresenta a existência de processos lentos e complexos que dificultam a execução da política.\nCarência de formação e qualificação profissional: Refere-se à carência de programas de formação e qualificação para os profissionais envolvidos na implementação da política.\nDificuldade em realizar processos de consulta e participação da sociedade: Indica a falta de mecanismos efetivos para ouvir e envolver a sociedade civil na formulação e implementação da política.\nEstrutura deficiente do órgão: Refere-se à falta de recursos humanos, materiais ou financeiros, ou à organização inadequada do órgão responsável pela política.\nFalhas na comunicação entre o ente e a sociedade civil: Indica a falta de diálogo e transparência entre o ente responsável pela política e a sociedade civil.\nFinanciamento insuficiente para a implementação da política: Aponta para a falta de recursos financeiros adequados para executar a política.\nInfluência política no processo decisório: Refere-se à interferência de interesses políticos que afetam as decisões relacionadas à implementação da política, desviando o foco de critérios técnicos e objetivos.\nLimitações na articulação e apoio dos órgãos de controle e outras instâncias decisórias: Refere-se à falta de cooperação e apoio de outros órgãos e instituições que possuem poder de decisão ou influência sobre a política.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Pergunta 9</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q10.html",
+    "href": "perguntas/q10.html",
+    "title": "Pergunta 10",
+    "section": "",
+    "text": "Enunciado\nQuais as fontes utilizadas para o financiamento às artes no período de 2020 a 2023?",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Pergunta 10</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q10.html#enunciado",
+    "href": "perguntas/q10.html#enunciado",
+    "title": "Pergunta 10",
+    "section": "",
+    "text": "Captação de recursos complementares\nCaptação de recursos privados, com ou sem incentivo fiscal\nDotações orçamentárias\nFundos públicos destinados às políticas públicas culturais\nOutras fontes ou mecanismos previstos em legislação específica\nRendimentos obtidos durante a execução da ação cultural\nOutra(s). Especifique:",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Pergunta 10</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q10.html#explicação",
+    "href": "perguntas/q10.html#explicação",
+    "title": "Pergunta 10",
+    "section": "Explicação",
+    "text": "Explicação\nEsta pergunta busca identificar quais foram as fontes utilizadas para o financiamento às artes no período de 2020 a 2023.\n\nInstruções\n\nAnalise as opções: Leia atentamente cada uma das opções apresentadas.\nSelecione as opções: Escolha aquelas que correspondem às fontes de financiamento para as artes no período em questão.\nOpção “Outra(s)”: Marque esta opção somente se houver uma fonte de financiamento não listada e especifique sua escolha.\n\n\n\nDescrição das alternativas\n\nCaptação de recursos complementares: Obtenção de recursos adicionais de outras fontes para complementar o orçamento inicial da ação cultural.\nCaptação de recursos privados, com ou sem incentivo fiscal: Financiamento obtido de empresas ou indivíduos privados, podendo estar atrelado a incentivos fiscais, como leis de incentivo à cultura.\nDotações orçamentárias: Recursos previstos no orçamento público, destinados ao financiamento de atividades culturais e artísticas.\nFundos públicos destinados às políticas públicas culturais: Fundos criados pelo governo para apoiar políticas, projetos e programas culturais específicos, como fundos estaduais ou municipais de cultura.\nOutras fontes ou mecanismos previstos em legislação específica: Fontes de financiamento previstas em leis específicas que regulam o fomento à Cultura.\nRendimentos obtidos durante a execução da ação cultural: Rendimentos de ativos financeiros obtidos durante a execução do projeto cultural.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Pergunta 10</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q11.html",
+    "href": "perguntas/q11.html",
+    "title": "Pergunta 11",
+    "section": "",
+    "text": "Enunciado\nQuais foram as modalidades de instrumentos utilizadas para o fomento às linguagens artísticas no período de 2020 a 2023?",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Pergunta 11</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q11.html#enunciado",
+    "href": "perguntas/q11.html#enunciado",
+    "title": "Pergunta 11",
+    "section": "",
+    "text": "Apoio a espaços culturais\nApoio à execução de ações culturais\nBolsas culturais\nCooperação cultural\nOcupação cultural\nPremiação cultural\nOutra(s). Especifique:",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Pergunta 11</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q11.html#explicação",
+    "href": "perguntas/q11.html#explicação",
+    "title": "Pergunta 11",
+    "section": "Explicação",
+    "text": "Explicação\nEsta questão busca identificar os diferentes instrumentos que foram utilizados para apoiar e promover as diversas linguagens artísticas entre 2020 e 2023.\n\nInstruções\n\nAnalise as opções: Leia atentamente cada uma das opções apresentadas.\nSelecione as opções: Escolha aquelas que correspondem aos tipos de instrumentos utilizados para o fomento às linguagens artísticas.\nOpção “Outra(s)”: Marque esta opção somente se as modalidades de instrumentos utilizados não estiverem entre as alternativas listadas e especifique sua resposta.\nPara conhecer mais sobre as modalidades de instrumentos, consulte o detalhamento previsto no Capítulo II da Lei 14.903 de 27 de junho de 2024, conhecida como Marco do Fomento.\n\n\n\nDescrição das alternativas\nApoio a espaços culturais: Apoio para manutenção e desenvolvimento de teatros, museus, centros culturais e outros espaços destinados à promoção de atividades culturais.\nApoio à execução de ações culturais: Incentivo para a realização de ações culturais, com repasse de recursos pela administração pública.\nBolsas culturais: Auxílio financeiro a indivíduos para o desenvolvimento de pesquisas ou estudos na área da cultura, com repasse da administração pública.\nCooperação cultural: Visa promover ações de interesse recíproco, não envolvendo repasse de recursos pela administração pública. A celebração do termo termo decorre de ação discricionária da administração pública, sem a necessidade de chamamento público.\nOcupação cultural: Incentivos ou recursos para a utilização ordinária de equipamentos públicos para a realização de atividades culturais diversas, sem repasse de recursos pela administração pública.\nPremiação cultural: Premiação a indivíduos ou grupos pela relevância de sua contribuição para a cultura. Envolve a transferência de recursos públicos a título de doação, sem encargo ou estabelecimento de obrigações futuras.",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Pergunta 11</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q12.html",
+    "href": "perguntas/q12.html",
+    "title": "Pergunta 12",
+    "section": "",
+    "text": "Enunciado\nPara além da Lei Aldir Blanc (LAB) e da Lei Paulo Gustavo (LPG), o órgão gestor realizou chamadas públicas (editais, premiações, etc) para as artes em 2023?\nSe sim, anexar os instrumentos específicos (junte os arquivos em um único arquivo PDF).",
+    "crumbs": [
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Pergunta 12</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q12.html#enunciado",
+    "href": "perguntas/q12.html#enunciado",
+    "title": "Pergunta 12",
+    "section": "",
+    "text": "Sim\nNão",
+    "crumbs": [
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Pergunta 12</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q12.html#explicação",
+    "href": "perguntas/q12.html#explicação",
+    "title": "Pergunta 12",
+    "section": "Explicação",
+    "text": "Explicação\nEsta questão busca verificar se o órgão gestor realizou chamadas públicas (como editais e premiações) para as artes em 2023, com outros recursos que não aqueles advindos das Leis Aldir Blanc e Paulo Gustavo e, em caso afirmativo, coletar esses documentos para análise.\n\nInstruções\n\nVerifique se o órgão realizou chamadas públicas para as artes em 2023, além da LAB e da LPG, e selecione a opção correspondente.\nCaso tenha marcado a opção “Sim”, será necessário anexar os instrumentos específicos.\nFaça o upload dos documentos em formato PDF.\nUtilize um software ou ferramenta online para juntar os arquivos PDF em até 2 MB, ou comprimir arquivos caso seja necessário. Você pode usar www.ilovepdf.com, pdftk ou Adobe Acrobat.\nÉ possível anexar até 20 arquivos, com o tamanho máximo de 2 MB por arquivo.",
+    "crumbs": [
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Pergunta 12</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q13.html",
+    "href": "perguntas/q13.html",
+    "title": "Pergunta 13",
+    "section": "",
+    "text": "Enunciado\nComo é feita a avaliação da política para as artes?\nQuem executou a avaliação da política para as artes no período de 2020 a 2023?",
+    "crumbs": [
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Pergunta 13</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q13.html#enunciado",
+    "href": "perguntas/q13.html#enunciado",
+    "title": "Pergunta 13",
+    "section": "",
+    "text": "Análise dos resultados dos programas, ações e chamadas públicas\nO órgão não realiza avaliação da política para as artes\nRealização de pesquisas\nReuniões periódicas com o setor (participação social)\nNão existe política para as artes\nOutra(s). Especifique:\n\n\n\nConselho, Fóruns e outros (participação social)\nEmpresa contratada\nObservatório ou outra instituição pública externa ao organismo\nSetor(es) do próprio organismo\nOutra(s). Especifique:",
+    "crumbs": [
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Pergunta 13</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q13.html#explicação",
+    "href": "perguntas/q13.html#explicação",
+    "title": "Pergunta 13",
+    "section": "Explicação",
+    "text": "Explicação\nEsta pergunta está dividida em duas partes:\nAvaliação da política para as artes: Na primeira parte, você deverá informar como é realizada a avaliação da política pelo ente. Caso não exista uma política específica para as artes, ou se o órgão responsável não conduzir tal avaliação, selecione a alternativa que responde a essa realidade na lista de itens.\nResponsáveis pela avaliação da política para as artes: A segunda parte visa identificar quem conduziu o processo de avaliação da política para as artes no período de 2020 a 2023. São oferecidas diferentes opções de responsáveis pela execução desse processo, e o respondente deverá selecionar a opção que considere mais adequada.\n\nObservações importantes\n\nÉ possível marcar mais de uma opção nas questões, caso seja pertinente, exceto para as alternativas “Não existe política para as artes” e “O órgão não realiza avaliação da política para as artes”, que devem ser selecionadas isoladamente.\nSe você selecionar a opção “Outra(s)”, por favor, descreva as informações de forma clara e concisa.",
+    "crumbs": [
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Pergunta 13</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q14.html",
+    "href": "perguntas/q14.html",
+    "title": "Pergunta 14",
+    "section": "",
+    "text": "Enunciado\nExiste algum sistema ou plataforma tecnológica para a gestão da política de fomento para as artes?",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Pergunta 14</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q14.html#enunciado",
+    "href": "perguntas/q14.html#enunciado",
+    "title": "Pergunta 14",
+    "section": "",
+    "text": "Sim\nNão\nEm implementação",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Pergunta 14</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q14.html#explicação",
+    "href": "perguntas/q14.html#explicação",
+    "title": "Pergunta 14",
+    "section": "Explicação",
+    "text": "Explicação\nEsta pergunta tem como objetivo identificar a existência de sistemas para a gestão da política de fomento às artes, podendo ser sistemas que envolvem todas ou quaisquer etapas do processo como cadastramento de proponentes, inscrição de projetos, controles de avaliação, ou acompanhamento dos projetos selecionados.\n\nInstruções\n\nVerifique a existência de sistema para a gestão da política de fomento para as artes em seu órgão e selecione a opção correspondente.",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Pergunta 14</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q15.html",
+    "href": "perguntas/q15.html",
+    "title": "Pergunta 15",
+    "section": "",
+    "text": "Enunciado\nHouve investimento de recursos do estado/município para os editais da LAB complementando o valor recebido do Governo Federal entre 2020 e 2021?\nInforme o valor total, incluindo os centavos.\nEscreva o valor acima por extenso.",
+    "crumbs": [
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Pergunta 15</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q15.html#enunciado",
+    "href": "perguntas/q15.html#enunciado",
+    "title": "Pergunta 15",
+    "section": "",
+    "text": "Sim\nNão",
+    "crumbs": [
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Pergunta 15</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q15.html#explicação",
+    "href": "perguntas/q15.html#explicação",
+    "title": "Pergunta 15",
+    "section": "Explicação",
+    "text": "Explicação\nEsta pergunta busca obter informações sobre investimentos de recursos financeiros do estado ou município em complementação à Lei Aldir Blanc (LAB).\n\nInstruções\n\nVerifique se o seu estado ou município realizou algum tipo de investimento adicional além dos recursos federais, para os editais da LAB.\nSe sim, insira o valor total investido pelo estado ou município em reais e, em seguida, escreva o valor por extenso.\nInforme apenas o valor complementar investido pelo estado ou município, não incluindo os recursos federais.\nSe não houve investimento complementar, marque a alternativa correspondente.\n\n\n\nExemplo:\nSe o estado investiu R$50.600,00 adicionais na LAB, você deve inserir “50.600,00” no primeiro campo e, em seguida, escrever “Cinquenta mil e seiscentos reais”.",
+    "crumbs": [
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Pergunta 15</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q16.html",
+    "href": "perguntas/q16.html",
+    "title": "Pergunta 16",
+    "section": "",
+    "text": "Enunciado\nComo foi o processo decisório para a definição das prioridades e a alocação dos recursos da LAB nos editais lançados entre 2020 e 2021? Utilize os números de 1 (menos incidente) a 5 (mais incidente) ou N/A (não se aplica).\nOutra(s). Especifique:",
+    "crumbs": [
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Pergunta 16</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q16.html#enunciado",
+    "href": "perguntas/q16.html#enunciado",
+    "title": "Pergunta 16",
+    "section": "",
+    "text": "O processo buscou atender a lacunas de investimentos nos exercícios anteriores, identificados em pesquisas e diagnósticos técnicos e nas necessidades específicas de cada setor.\nAs decisões foram baseadas nos planos setoriais, nos documentos técnicos e de planejamento, como metas de desempenho, e na análise da viabilidade técnica da gestão, com pouca interferência política.\nO processo foi centralizado, com decisões tomadas pela pessoa dirigente ou grupo responsável pelo órgão de cultura, com pouca ou nenhuma consulta aos setores.\nO processo foi colaborativo, com a participação ativa de representantes dos setores artísticos, que contribuíram para a definição das prioridades e a distribuição dos recursos.\nA alocação e distribuição dos recursos foram influenciadas por pressões políticas internas ou externas, resultando em decisões que não seguiram estritamente critérios técnicos ou participativos.",
+    "crumbs": [
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Pergunta 16</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q16.html#explicação",
+    "href": "perguntas/q16.html#explicação",
+    "title": "Pergunta 16",
+    "section": "Explicação",
+    "text": "Explicação\nPara responder a esta questão, leia atentamente cada opção fornecida e avalie como elas se aplicam ao processo decisório do órgão gestor da cultura no seu contexto específico. Em seguida, escolha um número de 1 a 5 para indicar a característica mais condizente com o processo decisório, onde 1 representa a característica menos incidente e 5 a mais incidente. Se a opção não se aplicar ao processo decisório na alocação dos recursos, marque “N/A”.\nCaso nenhuma das opções reflita características condizentes com o processo decisório do ente, selecione ‘Outra(s)’ e forneça uma descrição detalhada do processo não contemplado pelas opções anteriores, incluindo como as prioridades foram definidas, os recursos alocados e quaisquer informações adicionais relevantes.",
+    "crumbs": [
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Pergunta 16</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q17.html",
+    "href": "perguntas/q17.html",
+    "title": "Pergunta 17",
+    "section": "",
+    "text": "Enunciado\nFavor anexar os editais publicados com recursos da LAB entre 2020 e 2021 (junte os arquivos em um único PDF).",
+    "crumbs": [
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Pergunta 17</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q17.html#explicação",
+    "href": "perguntas/q17.html#explicação",
+    "title": "Pergunta 17",
+    "section": "Explicação",
+    "text": "Explicação\nNesta pergunta, você precisa reunir todos os editais publicados com recursos da Lei Aldir Blanc e, em seguida, anexá-los no campo especificado.\n\nInstruções\n\nIdentifique todos os editais que foram publicados com recursos da Lei Aldir Blanc (LAB).\nFaça o upload dos documentos em formato PDF em um único arquivo de até 2 MB.\nUtilize um software ou ferramenta online para juntar os arquivos PDF em até 2 MB, ou comprimir arquivos caso seja necessário. Você pode usar www.ilovepdf.com, pdftk ou Adobe Acrobat..\nÉ possível anexar até 20 arquivos, com o tamanho máximo de 2 MB por arquivo.",
+    "crumbs": [
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Pergunta 17</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q18.html",
+    "href": "perguntas/q18.html",
+    "title": "Pergunta 18",
+    "section": "",
+    "text": "Enunciado\nQuais foram as modalidades de instrumentos utilizadas para o fomento às linguagens artísticas nos editais da LAB publicados entre 2020 e 2021?",
+    "crumbs": [
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Pergunta 18</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q18.html#enunciado",
+    "href": "perguntas/q18.html#enunciado",
+    "title": "Pergunta 18",
+    "section": "",
+    "text": "Apoio a espaços culturais\nApoio à execução de ações culturais\nBolsas culturais\nCooperação cultural\nOcupação cultural\nPremiação cultural\nOutra(s). Especifique:",
+    "crumbs": [
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Pergunta 18</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q18.html#explicação",
+    "href": "perguntas/q18.html#explicação",
+    "title": "Pergunta 18",
+    "section": "Explicação",
+    "text": "Explicação\nEsta questão busca identificar os diferentes instrumentos que foram utilizados para apoiar e promover as diversas linguagens artísticas entre 2020 e 2021.\n\nInstruções\n\nAnalise as opções: Leia atentamente cada uma das opções apresentadas.\nSelecione as opções: Escolha aquelas que correspondem aos tipos de instrumentos utilizados para o fomento às linguagens artísticas.\nOpção “Outra(s)”: Marque esta opção somente se as modalidades de instrumentos utilizados não estiverem entre as alternativas listadas e especifique sua resposta.\nPara conhecer mais sobre as modalidades dos instrumentos, consulte o detalhamento previsto no Capítulo II da Lei 14.903 de 27 de junho de 2024, conhecida como Marco do Fomento.\n\n\n\nDescrição das alternativas\nApoio a espaços culturais: Apoio para manutenção e desenvolvimento de teatros, museus, centros culturais e outros espaços destinados à promoção de atividades culturais.\nApoio à execução de ações culturais: Incentivo para a realização de ações culturais, com repasse de recursos pela administração pública.\nBolsas culturais: Auxílio financeiro a indivíduos para o desenvolvimento de pesquisas ou estudos na área da cultura, com repasse da administração pública.\nCooperação cultural: Visa promover ações de interesse recíproco, não envolvendo repasse de recursos pela administração pública. A celebração do termo decorre de ação discricionária da administração pública, sem a necessidade de chamamento público.\nOcupação cultural: Incentivos ou recursos para a utilização ordinária de equipamentos públicos para a realização de atividades culturais diversas, sem repasse de recursos pela administração pública.\nPremiação cultural: Premiação a indivíduos ou grupos pela relevância de sua contribuição para a cultura. Envolve a transferência de recursos públicos a título de doação, sem encargo ou estabelecimento de obrigações futuras.",
+    "crumbs": [
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Pergunta 18</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q19.html",
+    "href": "perguntas/q19.html",
+    "title": "Pergunta 19",
+    "section": "",
+    "text": "Enunciado\nQuais elos da rede produtiva das artes foram contemplados nos editais da LAB (2020/2021) que tinham como objeto as linguagens artísticas?",
+    "crumbs": [
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Pergunta 19</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q19.html#enunciado",
+    "href": "perguntas/q19.html#enunciado",
+    "title": "Pergunta 19",
+    "section": "",
+    "text": "Acesso\nCriação\nDifusão\nFormação\nMemória\nPesquisa",
+    "crumbs": [
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Pergunta 19</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q19.html#explicação",
+    "href": "perguntas/q19.html#explicação",
+    "title": "Pergunta 19",
+    "section": "Explicação",
+    "text": "Explicação\nEssa questão tem como objetivo identificar quais elos da rede produtiva das artes foram contemplados pelos editais da Lei Aldir Blanc (LAB) focados nas linguagens artísticas entre 2020 e 2021.\n\nDescrição das alternativas\nAcesso: Refere-se à disponibilização das obras artísticas para o público. Isso pode incluir ações que facilitem a democratização do acesso, como a distribuição de ingressos, exibições gratuitas ou plataformas de difusão online.\nCriação: Ações que contemplam o processo de construção de espetáculos, obras e similares, bem como a atualização ou renovação daqueles já criados, entre outros.\nDifusão: Está relacionada à disseminação das obras já produzidas. Isso pode incluir a organização de eventos, exibições ou qualquer outro meio que possibilite a apresentação das produções artísticas a um público mais amplo.\nFormação: Ações que utilizem a linguagem artística como instrumento de diálogo pedagógico para transformação social e construção de cidadania ou que proponham o desenvolvimento e aperfeiçoamento dessas linguagens artísticas, tais como: oficinas, webinários, workshops, cursos livres, palestras, laboratórios, conferências, entre outros.\nMemória: Envolve a preservação, o registro e a memória das artes, compreendendo ações de preservação, restauro e difusão de acervos de agentes artísticos, instituições ou espaços, com o intuito de promover sua conservação e/ou acesso público, inclusive por meio de websites, exposições, criação de banco de dados, entre outros.\nPesquisa: Refere-se ao estudo e à investigação no campo das artes, inclusive sua interface com o ambiente digital e as novas tecnologias, podendo resultar em artigos, catálogos, podcasts, mapeamentos, publicações, construção de metodologias, ensaios, e ainda a promoção da troca de experiências por meio da imersão artística em processos criativos compartilhados ou da interação entre diferentes criadores e suas metodologias, contribuindo para o desenvolvimento de pesquisas no campo das artes",
+    "crumbs": [
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Pergunta 19</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q20.html",
+    "href": "perguntas/q20.html",
+    "title": "Pergunta 20",
+    "section": "",
+    "text": "Enunciado\nQuais as atividades previstas nos editais da LAB que tinham como objeto as linguagens artísticas entre 2020 e 2021?",
+    "crumbs": [
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Pergunta 20</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q20.html#enunciado",
+    "href": "perguntas/q20.html#enunciado",
+    "title": "Pergunta 20",
+    "section": "",
+    "text": "Apresentação\nAtividades de mediação\nAtividades de reflexão\nCirculação\nExibição\nIntercâmbio\nPlano de atividades - manutenção de espaços\nPlano de atividades - manutenção de grupos e coletivos\nPreservação de acervos\nRealização de eventos calendarizados\nResidência\nOutra(s). Especifique:",
+    "crumbs": [
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Pergunta 20</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q20.html#explicação",
+    "href": "perguntas/q20.html#explicação",
+    "title": "Pergunta 20",
+    "section": "Explicação",
+    "text": "Explicação\nEssa questão busca mapear as atividades propostas nos editais da LAB de 2020 e 2021 que tiveram como foco as linguagens artísticas. O objetivo é identificar quais tipos de iniciativas e ações foram contempladas para incentivar a produção, difusão, manutenção e preservação no campo das artes.\n\nInstruções\n\nAnalise as opções: Leia atentamente cada uma das opções apresentadas.\nSelecione as opções: Escolha aquelas que correspondem às atividades previstas nos editais do período em questão.\nOpção “Outra(s)”: Marque esta opção somente se houver uma atividade não listada entre as opções e especifique sua escolha.\n\n\n\nDescrição das alternativas\nApresentação: Refere-se à exibição de obras artísticas, como espetáculos de teatro, dança, música ou outras performances apresentadas ao público.\nAtividades de mediação: As atividades de mediação focam no diálogo e na troca com o público, e no estímulo ao compartilhamento das diferentes percepções e pontos de vista sobre a arte. A mediação é a prática educativa que privilegia a troca de saberes, a construção dos significados por meio das percepções subjetivas e da experimentação, que levam à construção de conhecimento, e pode incluir ações como debates, visitas educativas ou oficinas\nAtividades de reflexão: São aquelas que promovem discussões, análises ou estudos críticos sobre a arte e a cultura. Esses espaços podem incentivar o debate teórico e reflexivo sobre o papel das linguagens artísticas e seu impacto na sociedade.\nCirculação: Trata-se da exibição de obras e produções artísticas em diferentes localidades. Isso pode incluir turnês, apresentações itinerantes ou mostras de arte em diversos locais, permitindo que as obras alcancem novos públicos.\nExibição: Foca na apresentação de produções artísticas em espaços de exibição, como centro culturais, museus, galerias, teatros, ou o espaço público.\nIntercâmbio: Envolve a troca de experiências e saberes entre artistas, grupos ou instituições culturais, muitas vezes entre diferentes regiões ou países. Isso pode incluir residências artísticas ou colaborações que promovam a troca de ideias e o enriquecimento mútuo.\nPlano de atividades - manutenção de espaços: Refere-se ao suporte financeiro para manter o espaço físico de centros culturais, como teatros, galerias, espaços de arte, garantindo que esses locais possam desenvolver suas atividades.\nPlano de atividades - manutenção de grupos e coletivos: Relaciona-se ao apoio à continuidade de grupos e coletivos artísticos, contribuindo para o desenvolvimento de suas atividades\nPreservação de acervos: Envolve o cuidado, a conservação e a proteção de acervos, coleções de arte, ou arquivos, incluindo atividades de restauração, conservação, digitalização ou acondicionamento\nRealização de eventos calendarizados: Refere-se à organização de eventos culturais que acontecem regularmente, como festivais, feiras de arte ou ciclos de apresentações, que já possuem um calendário estabelecido.\nResidência: É uma oportunidade oferecida para que artistas trabalhem em um ambiente diferente do habitual, por um período determinado. As residências permitem que os artistas se dediquem à criação, pesquisa ou desenvolvimento de projetos, muitas vezes em contato com outras culturas ou profissionais.",
+    "crumbs": [
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Pergunta 20</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q21.html",
+    "href": "perguntas/q21.html",
+    "title": "Pergunta 21",
+    "section": "",
+    "text": "Enunciado\nHouve investimento de recursos do estado/município para os editais da LPG, complementando o valor recebido do Governo Federal em 2023 e 2024?\nInforme o valor total, incluindo os centavos.\nEscreva o valor acima por extenso.",
+    "crumbs": [
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Pergunta 21</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q21.html#enunciado",
+    "href": "perguntas/q21.html#enunciado",
+    "title": "Pergunta 21",
+    "section": "",
+    "text": "Sim\nNão",
+    "crumbs": [
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Pergunta 21</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q21.html#explicação",
+    "href": "perguntas/q21.html#explicação",
+    "title": "Pergunta 21",
+    "section": "Explicação",
+    "text": "Explicação\nEsta pergunta busca obter informações sobre investimentos de recursos financeiros do estado ou município em complementação à Lei Paulo Gustavo (LPG).\n\nInstruções\n\nVerifique se o seu estado ou município realizou algum tipo de investimento adicional além dos recursos federais, para os editais da LPG.\nSe sim, insira o valor total investido pelo estado e município em reais e, em seguida, escreva o valor por extenso.\nInforme apenas o valor complementar investido pelo estado ou município, não incluindo os recursos federais.\nSe não houve investimento complementar,marque a alternativa correspondente.\n\n\n\nExemplo:\nSe o estado investiu R$50.600,00 adicionais na LPG, você deve inserir “50.600,00” no primeiro campo e, em seguida, escrever “Cinquenta mil e seiscentos reais”.",
+    "crumbs": [
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>Pergunta 21</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q22.html",
+    "href": "perguntas/q22.html",
+    "title": "Pergunta 22",
+    "section": "",
+    "text": "Enunciado\nComo foi o processo decisório para a definição das prioridades e a alocação dos recursos da LPG nos editais lançados em 2023 e 2024? Utilize os números de 1 (menos incidente) a 5 (mais incidente) ou N/A (não se aplica).\nOutra(s). Especifique:",
+    "crumbs": [
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Pergunta 22</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q22.html#enunciado",
+    "href": "perguntas/q22.html#enunciado",
+    "title": "Pergunta 22",
+    "section": "",
+    "text": "O processo buscou atender a lacunas de investimentos nos exercícios anteriores, identificados em pesquisas e diagnósticos técnicos e nas necessidades específicas de cada setor.\nAs decisões foram baseadas nos planos setoriais, nos documentos técnicos e de planejamento, como metas de desempenho, e na análise da viabilidade técnica da gestão, com pouca interferência política.\nO processo foi centralizado, com decisões tomadas pela pessoa dirigente ou grupo responsável pelo órgão de cultura, com pouca ou nenhuma consulta aos setores.\nO processo foi colaborativo, com a participação ativa de representantes dos setores artísticos, que contribuíram para a definição das prioridades e a distribuição dos recursos.\nA alocação e distribuição dos recursos foram influenciadas por pressões políticas internas ou externas, resultando em decisões que não seguiram estritamente critérios técnicos ou participativos.",
+    "crumbs": [
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Pergunta 22</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q22.html#explicação",
+    "href": "perguntas/q22.html#explicação",
+    "title": "Pergunta 22",
+    "section": "Explicação",
+    "text": "Explicação\nPara responder a esta questão, leia atentamente cada opção fornecida e avalie como elas se aplicam ao processo decisório do órgão gestor da cultura no seu contexto específico. Em seguida, escolha um número de 1 a 5 para indicar a característica mais condizente com o processo decisório, onde 1 representa a característica menos incidente e 5 a mais incidente. Se a opção não se aplicar ao processo decisório na alocação dos recursos no ano de 2023, marque “N/A”.\nCaso nenhuma das opções reflita características condizentes com o processo decisório do ente, selecione ‘Outra(s)’ e forneça uma descrição detalhada do processo não contemplado pelas opções anteriores, incluindo como as prioridades foram definidas, os recursos alocados e quaisquer informações adicionais relevantes.",
+    "crumbs": [
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Pergunta 22</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q23.html",
+    "href": "perguntas/q23.html",
+    "title": "Pergunta 23",
+    "section": "",
+    "text": "Enunciado\nFavor anexar os editais publicados com recursos da LPG em 2023 e 2024 (junte os arquivos em um único PDF).",
+    "crumbs": [
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Pergunta 23</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q23.html#explicação",
+    "href": "perguntas/q23.html#explicação",
+    "title": "Pergunta 23",
+    "section": "Explicação",
+    "text": "Explicação\nNesta pergunta, você precisa reunir todos os editais publicados com recursos da Lei Paulo Gustavo e, em seguida, anexá-los no campo especificado.\n\nInstruções\n\nIdentifique todos os editais que foram publicados com recursos da Lei Paulo Gustavo (LPG).\nFaça o upload dos documentos em formato PDF em um único arquivo de até 2 MB.\nUtilize um software ou ferramenta online para juntar os arquivos PDF em até 2 MB, ou comprimir arquivos caso seja necessário. Você pode usar www.ilovepdf.com, pdftk ou Adobe Acrobat.\nÉ possível anexar até 20 arquivos, com o tamanho máximo de 2 MB por arquivo.",
+    "crumbs": [
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Pergunta 23</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q24.html",
+    "href": "perguntas/q24.html",
+    "title": "Pergunta 24",
+    "section": "",
+    "text": "Enunciado\nQuais foram as modalidades de instrumentos utilizadas para o fomento às linguagens artísticas nos editais da LPG publicados em 2023 e 2024?",
+    "crumbs": [
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Pergunta 24</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q24.html#enunciado",
+    "href": "perguntas/q24.html#enunciado",
+    "title": "Pergunta 24",
+    "section": "",
+    "text": "Apoio a espaços culturais\nApoio à execução de ações culturais\nBolsas culturais\nCooperação cultural\nOcupação cultural\nPremiação cultural\nOutra(s). Especifique:",
+    "crumbs": [
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Pergunta 24</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q24.html#explicação",
+    "href": "perguntas/q24.html#explicação",
+    "title": "Pergunta 24",
+    "section": "Explicação",
+    "text": "Explicação\nEsta questão busca identificar os diferentes instrumentos que foram utilizados para apoiar e promover as diversas linguagens artísticas nos editais da LPG em 2023.\n\nInstruções\n\nAnalise as opções: Leia atentamente cada uma das opções apresentadas.\nSelecione as opções: Escolha aquelas que correspondem aos tipos de instrumentos utilizados para o fomento às linguagens artísticas.\nOpção “Outra(s)”: Marque esta opção somente se as modalidades de instrumentos utilizados não estiverem entre as alternativas listadas e especifique sua resposta.\nPara conhecer mais sobre as modalidades dos instrumentos, consulte o detalhamento previsto no Capítulo II da Lei 14.903 de 27 de junho de 2024, conhecida como Marco do Fomento.\n\n\n\nDescrição das alternativas\nApoio a espaços culturais: Apoio para manutenção e desenvolvimento de teatros, museus, centros culturais e outros espaços destinados à promoção de atividades culturais.\nApoio à execução de ações culturais: Incentivo para a realização de ações culturais, com repasse de recursos pela administração pública.\nBolsas culturais: Auxílio financeiro a indivíduos para o desenvolvimento de pesquisas ou estudos na área da cultura, com repasse da administração pública.\nCooperação cultural: Visa promover ações de interesse recíproco, não envolvendo repasse de recursos pela administração pública. A celebração do termo termo decorre de ação discricionária da administração pública, sem a necessidade de chamamento público.\nOcupação cultural: Incentivos ou recursos para a utilização ordinária de equipamentos públicos para a realização de atividades culturais diversas, sem repasse de recursos pela administração pública.\nPremiação cultural: Premiação a indivíduos ou grupos pela relevância de sua contribuição para a cultura. Envolve a transferência de recursos públicos a título de doação, sem encargo ou estabelecimento de obrigações futuras.",
+    "crumbs": [
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Pergunta 24</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q25.html",
+    "href": "perguntas/q25.html",
+    "title": "Pergunta 25",
+    "section": "",
+    "text": "Enunciado\nQuais elos da rede produtiva das artes foram contemplados nos editais da LPG (2023/2024) que tinham como objeto as linguagens artísticas?",
+    "crumbs": [
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Pergunta 25</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q25.html#enunciado",
+    "href": "perguntas/q25.html#enunciado",
+    "title": "Pergunta 25",
+    "section": "",
+    "text": "Acesso\nCriação\nDifusão\nFormação\nMemória\nPesquisa",
+    "crumbs": [
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Pergunta 25</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q25.html#explicação",
+    "href": "perguntas/q25.html#explicação",
+    "title": "Pergunta 25",
+    "section": "Explicação",
+    "text": "Explicação\nEssa questão tem como objetivo identificar quais elos da rede produtiva das artes foram contemplados pelos editais da Lei Paulo Gustavo (LPG) voltados para as linguagens artísticas em 2023 e 2024.\n\nDescrição das alternativas\nAcesso: Refere-se à disponibilização das obras artísticas para o público. Isso pode incluir ações que facilitem a democratização do acesso, como a distribuição de ingressos, exibições gratuitas ou plataformas de difusão online.\nCriação: Trata-se do apoio ao desenvolvimento de novas obras ou produtos artísticos. Os editais que focam na criação podem financiar a concepção de projetos originais ou a produção de novas peças artísticas.\nDifusão: Está relacionada à disseminação das obras já produzidas. Isso pode incluir a organização de eventos, exibições ou qualquer outro meio que possibilite a apresentação das produções artísticas a um público mais amplo.\nFormação: Refere-se à qualificação e ao desenvolvimento de habilidades de artistas e profissionais do setor cultural. Os editais que contemplam a formação podem incluir oficinas, cursos, workshops ou mentorias para aprimorar as competências dos envolvidos.\nMemória: Envolve a preservação e o registro do patrimônio cultural e artístico. Editais que focam em memória podem financiar projetos voltados para a documentação, catalogação ou restauração de obras, além de manter vivo o legado cultural.\nPesquisa: Refere-se ao estudo e à investigação no campo das artes. Editais voltados para pesquisa podem apoiar levantamentos históricos, estudos de impacto ou investigações que contribuam para o conhecimento do setor artístico.",
+    "crumbs": [
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Pergunta 25</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q26.html",
+    "href": "perguntas/q26.html",
+    "title": "Pergunta 26",
+    "section": "",
+    "text": "Enunciado\nQuais as atividades previstas nos editais da LPG que tinham como objeto as linguagens artísticas em 2023 e 2024?",
+    "crumbs": [
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Pergunta 26</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q26.html#enunciado",
+    "href": "perguntas/q26.html#enunciado",
+    "title": "Pergunta 26",
+    "section": "",
+    "text": "Apresentação\nAtividades de mediação\nAtividades de reflexão\nCirculação\nExibição\nIntercâmbio\nPlano de atividades - manutenção de espaços\nPlano de atividades - manutenção de grupos e coletivos\nPreservação de acervos\nRealização de eventos calendarizados\nResidência\nOutra(s). Especifique:",
+    "crumbs": [
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Pergunta 26</span>"
+    ]
+  },
+  {
+    "objectID": "perguntas/q26.html#explicação",
+    "href": "perguntas/q26.html#explicação",
+    "title": "Pergunta 26",
+    "section": "Explicação",
+    "text": "Explicação\nEssa questão busca mapear as atividades propostas nos editais da LPG em 2023 que tiveram como foco as linguagens artísticas. O objetivo é identificar quais tipos de iniciativas e ações foram contempladas para incentivar a produção, difusão, manutenção e preservação no campo das artes.\n\nInstruções\n\nAnalise as opções: Leia atentamente cada uma das opções apresentadas.\nSelecione as opções: Escolha aquelas que correspondem às atividades previstas nos editais do período em questão.\nOpção “Outra(s)”: Marque esta opção somente se houver uma atividade não listada entre as opções e especifique sua escolha.\n\n\n\nDescrição das alternativas\nApresentação: Refere-se à exibição de obras artísticas, como espetáculos de teatro, dança, música ou outras performances apresentadas ao público.\nAtividades de mediação: Envolvem ações que ajudam o público a entender e interagir melhor com a obra artística. Isso pode incluir debates, visitas guiadas ou oficinas, com o objetivo de aproximar o público das obras e ampliar sua compreensão.\nAtividades de reflexão: São aquelas que promovem discussões, análises ou estudos críticos sobre a arte e a cultura. Esses espaços podem incentivar o debate teórico e reflexivo sobre o papel das linguagens artísticas e seu impacto na sociedade.\nCirculação: Trata-se da distribuição ou exibição de obras e produções artísticas em diferentes localidades. Isso pode incluir turnês, apresentações itinerantes ou mostras de arte em diversos locais, permitindo que as obras alcancem novos públicos.\nExibição: Foca na apresentação pública de produções artísticas em espaços de exibição, como galerias, teatros, cinemas ou online. É um termo comum em áreas como artes visuais e cinema, onde as obras são exibidas ao público.\nIntercâmbio: Envolve a troca de experiências e saberes entre artistas, grupos ou instituições culturais, muitas vezes entre diferentes regiões ou países. Isso pode incluir residências artísticas ou colaborações que promovam a troca de ideias e o enriquecimento mútuo.\nPlano de atividades - manutenção de espaços: Refere-se ao suporte financeiro para manter espaços culturais, como teatros, centros culturais ou galerias, garantindo que esses locais possam desenvolver suas atividades.\nPlano de atividades - manutenção de grupos e coletivos: Relaciona-se ao apoio à continuidade de grupos e coletivos artísticos, permitindo que desenvolvam suas atividades e garantam sua sustentabilidade ao longo do tempo.\nPreservação de acervos: Envolve o cuidado, a conservação e a proteção de coleções de arte, arquivos ou patrimônios culturais. Os editais que apoiam essa atividade buscam garantir que essas coleções sejam preservadas para as gerações futuras.\nRealização de eventos calendarizados: Refere-se à organização de eventos culturais que acontecem regularmente, como festivais, feiras de arte ou ciclos de apresentações, que já possuem um calendário estabelecido.\nResidência: É uma oportunidade oferecida para que artistas trabalhem em um ambiente diferente do habitual, por um período determinado. As residências permitem que os artistas se dediquem à criação, pesquisa ou desenvolvimento de projetos, muitas vezes em contato com outras culturas ou profissionais.",
+    "crumbs": [
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Pergunta 26</span>"
+    ]
+  }
+]

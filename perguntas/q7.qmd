@@ -1,0 +1,27 @@
+# Pergunta 7
+
+## Enunciado
+
+Existe Plano de Cultura desenvolvido pelo órgão gestor da cultura no estado/município?
+
+* Sim
+* Não
+* Em elaboração
+
+Se sim, anexe o Plano de Cultura.
+
+## Explicação
+
+Esta questão busca verificar a existência de Planos de Cultura nos entes investigados e, caso existam, coletar esses documentos para análise.
+
+### Entendendo o que são Planos de Cultura
+
+Planos de Cultura são instrumentos de planejamento estratégico desenvolvidos por organizações culturais, constituídos por um conjunto de diretrizes, objetivos, estratégias, metas e ações, que visam orientar a implementação de políticas culturais. 
+
+### Instruções
+
+* Verifique a existência de um plano de cultura em seu órgão e selecione a opção correspondente.
+* Caso tenha marcado a opção "Sim", será necessário anexar o Plano de Cultura encontrado.
+* Faça o upload do documento em formato PDF.
+* Utilize um software ou ferramenta online para juntar os arquivos PDF em até 2 MB, ou comprimir  arquivos caso seja necessário. Você pode usar [www.ilovepdf.com](https://www.ilovepdf.com/), [pdftk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) ou [Adobe Acrobat](https://www.adobe.com/br/acrobat.html).
+* É possível anexar até 20 arquivos, com o tamanho máximo de 2 MB por arquivo.

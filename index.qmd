@@ -1,0 +1,169 @@
+# Leia-me
+
+A pesquisa "Fomento às Artes no Brasil", desenvolvida pelo [Observatório da Economia Criativa da Bahia (OBEC)](https://obec.ufba.br) e pela [Fundação Nacional de Artes (FUNARTE)](https://www.gov.br/funarte/pt-br), através de um convênio com a [Universidade Federal do Recôncavo da Bahia (UFRB)](https://ufrb.edu.br) e a [Universidade Federal da Bahia (UFBA)](https://www.ufba.br), nasce no contexto de retomada do Ministério da Cultura e da Funarte, com a restituição de políticas públicas e de espaços de participação social, no movimento da implementação da Política Nacional das Artes (PNA).
+
+Diante da carência de informações sobre o panorama nacional das políticas e da gestão das artes, especialmente das ações de fomento executadas por estados e municípios, a pesquisa se propõe a evidenciar dados quantitativos e qualitativos, subsidiando os processos decisórios e a pactuação federativa de atribuições e responsabilidades para a implementação da PNA. 
+
+A ideia desse texto é fornecer a você orientações para responder o formulário de coleta que faz parte da pesquisa "Fomento às Artes no Brasil", e é composto por 26 questões. As questões envolvem a digitação de números, seleção de respostas entre opções pré-estabelecidas, e solicitação para anexar documentos em pdf.
+
+Este questionário foi construído usando a ferramenta [Research Eletronic Data Capture](https://projectredcap.org/about/) (REDCap), construída inicialmente pela Universidade de Vanderbilt em 2004. Em 2006, o [Consórcio REDCAP](https://projectredcap.org/about/consortium/) foi lançado para melhorar a ferramenta e disseminar o seu uso. REDCap é uma ferramenta gratuita, de código fechado, e qualquer instituição vinculada ao [Consórcio REDCAP](https://projectredcap.org/about/consortium/) consegue instalá-la e usá-la. Atualmente, 7299 instituições de pesquisa usam a ferramenta e 2,1 milhões de pesquisas já utilizaram o REDCap como instrumento de coleta de dados.
+
+
+## Tipos de arquivos e limites de tamanho
+
+Em diversas questões, será necessário anexar um ou mais arquivos em formato `pdf`. 
+
+Para cada questão é permitido anexar até 20 arquivos de 2MB cada.
+
+Para responder às perguntas reúna seus arquivos em um documento único até o limite de 2MB. 
+
+Caso 2MB não sejam suficientes para apresentar todos os aquivos necessários ao conteúdo para a resposta, reúna os demais arquivos em tantos quantos forem os pdfs necessários, até o limite de 20.
+
+**Inclua apenas arquivos no formato `pdf` , não anexe outros formatos
+como arquivos do word ou imagens.**
+
+Existem diversas ferramentas online para juntar arquivos como, por exemplo, [www.ilovepdf.com](https://www.ilovepdf.com/pt) (gratuito e _online_), [pdftk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) (gratuito e _offline_) e [Adobe Acrobat](https://www.adobe.com/br/acrobat.html) (pago e _offline_).
+
+## Palavras e termos em inglês
+
+O REDCAP foi desenvolvido por pesquisadores da Universidade de Vanderbilt nos Estados Unidos da América, e, por este motivo, vários avisos e botões da ferramenta também estão em inglês. Na tabela @tbl-depara, temos a tradução destes termos.
+
+|Termo em inglês no REDCAP|Tradução para Português|
+|:---|:---|
+|Previous|Página anterior|
+|Next|Próxima página|
+|Save e return later|Salve e volte depois|
+|Submit|Enviar|
+|Upload file|Carregue um arquivo pdf|
+|Upload new file|Substitua o arquivo pdf|
+|Remove file|Retire o arquivo pdf|
+|Resize font|Mude o tamanho da fonte|
+|Must provide value|Pergunta obrigatória|
+|Cannot select choice! The maximum number of choices has been selected.|Selecione apenas três alternativas!|
+|Close survey|Feche o questionário|
+|Download|Baixe|
+|Download your survey response (PDF)|Baixe as respostas fornecidas em formato pdf.|
+|You may close this tab/window|Feche esta aba ou janela|
+
+: Tabela _de-para_ para termos em inglês no REDCAP. {#tbl-depara}
+
+## Pausa e continuação no preenchimento
+
+Você pode pausar o preenchimento e retormar o preenchimento depois. 
+
+Caso opte por pausar o preenchimento, você precisará usar o _return code_ (código de retorno) para continuar o preenchimento depois: basta inserir o valor no espaço em branco como mostrado na região dentro do quadrado preto na @fig-volta. **Se você não souber o _return code_, contate um pesquisador OBEC para obter esse código: cada Estado e Município tem o seu próprio _return code_.** Consulte @tbl-cidades e @tbl-contatos para obter o número de celular com _WhatsApp_ dos pesquisadores do OBEC.
+
+**Se você clicar em _start over_ (recomeçar) como mostrado na região dentro do quarto vermelho na @fig-volta, todas as informações incluídas anteriormente serão apagadas e você começará responder o questionário a partir da primeira pergunta.**
+
+![Pausa e continuação no preenchimento do formulário.](assets/imagem.png){#fig-volta}
+
+## Organização
+
+O _formulário de coleta_ está organizado em seções para facilitar o preenchimento:
+
+* PRELIMINARES
+  + Termo de Consentimento Livre e Consentido
+* ESTRUTURA ORGANIZACIONAL - SECRETARIA OU ÓRGÃO MÁXIMO RESPONSÁVEL PELA POLÍTICA E GESTÃO CULTURAL
+  + Pergunta 1
+* ESTRUTURA ORGANIZACIONAL - SECRETARIA OU ÓRGÃO MÁXIMO RESPONSÁVEL PELA POLÍTICA E GESTÃO CULTURAL
+  + Pergunta 2
+  + Pergunta 3
+  + Pergunta 4
+  + Pergunta 5
+* ORÇAMENTO
+  + Pergunta 6
+* POLÍTICAS CULTURAIS
+  + Pergunta 7
+  + Pergunta 8
+  + Pergunta 9
+* SISTEMA DE FINANCIAMENTO À CULTURA
+  + Pergunta 10
+  + Pergunta 11
+  + Pergunta 12
+* AVALIAÇÃO E MONITORAMENTO
+  + Pergunta 13
+  + Pergunta 14
+* MECANISMOS - Lei Aldir Blanc (LAB)
+  + Pergunta 15
+  + Pergunta 16
+  + Pergunta 17
+  + Pergunta 18
+  + Pergunta 19
+  + Pergunta 20
+* MECANISMOS - Lei Paulo Gustavo (LPG)								
+  + Pergunta 21
+  + Pergunta 22
+  + Pergunta 23
+  + Pergunta 24
+  + Pergunta 25
+  + Pergunta 26
+
+## Contato - OBEC
+
+### Estados
+
+|Nome do(a) pesquisador(a)|Celular (WhatsApp)|Estados|
+|:----|:----|:----|
+|Amanda|[(41)99720-3041](https://wa.me/5541997203041){target="_blank"}|Paraíba, Sergipe, Paraná, Rio Grande do Sul e Santa Catarina|
+|Jalinson|[(83)99928-0588](https://wa.me/5583999280588){target="_blank"}|Bahia, Ceará, Maranhão, Espírito Santo, Minas Gerais e Rio de Janeiro|
+|Kelvin|[(75)98110-0202](https://wa.me/5575981100202){target="_blank"}|Pernambuco, Acre, Amazonas, Pará, Roraima, Amapá, Tocantins|
+|Lorena|[(75)99264-1507](https://wa.me/5575992641507){target="_blank"}|Alagoas, Piauí, Rio Grande do Norte, Mato Grosso do Sul, Distrito Federal, Mato Grosso, Goiás, São Paulo|
+
+
+: Tabela de contatos de pesquisadores(as) do OBEC que estarão em comunicação direta com os Estados. {#tbl-contatos}
+
+### Municípios
+
+```{r}
+#| echo: false
+#| message: false
+#| label: tbl-cidades
+#| tbl-cap: "Tabela de contatos de pesquisadores(as) do OBEC que estarão em comunicação direta com os Municípios."
+
+
+if (!require(pacman)) {
+  install.packages('pacman')
+  library(pacman)
+}
+p_load(readxl, writexl, readODS)
+p_load(ggthemes)
+p_load(glue)
+p_load(statBasics)
+p_load(janitor)
+p_load(googlesheets4)
+p_load(tidyverse)
+
+#------------------------------------------------------------------------------
+# lendo os dados
+dados <- read_csv("assets/informacoes_ente.csv")
+
+
+dados_final <- dados |>
+    mutate(
+        celular_zap = seq_along(telefone_pesquisador_link) |>
+            map_chr(\(k) {
+                glue('[{{telefone_pesquisador[k]}}](https://wa.me/{{telefone_pesquisador_link[k]}}){target="_blank"}', .open="{{", .close="}}")
+        })
+    ) |>
+    select(-starts_with("te"))  |>
+    filter(identificacao >= 29) |>
+    select(
+      nome_pesquisador,
+      celular_zap,
+      nome_ente
+    ) |>
+    mutate(UF = nome_ente |> map_chr(~ str_split_1(.x, "-")[1]),
+          cidade = nome_ente |> map_chr(~ str_split_1(.x, "-")[2]),
+    ) |>
+    select(-nome_ente) |>
+    arrange(UF, cidade)
+
+knitr::kable(dados_final,
+    col.names = c(
+        "Nome do(a) pesquisador(a)",
+        "Celular (WhatsApp)",
+        "UF",
+        "Município"
+    ))
+
+```

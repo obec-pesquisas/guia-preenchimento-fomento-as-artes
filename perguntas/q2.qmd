@@ -1,0 +1,28 @@
+# Pergunta 2
+
+## Enunciado
+
+Qual o tipo do principal organismo responsável pela gestão das artes?
+
+* Coordenadoria
+* Departamento
+* Diretoria
+* Fundação
+* Gerência
+* Secretaria
+* Subsecretaria
+* Superintendência
+* Outro(s). Especifique:
+
+## Explicação
+
+Esta pergunta tem como objetivo auxiliar na identificação do tipo do organismo, responsável pela gestão das artes em seu estado ou município.
+
+## Instruções
+
+* Analise as opções: Leia atentamente cada uma das opções apresentadas.
+* Selecione apenas uma opção: identifique o tipo de organismo responsável pela gestão das artes em seu estado ou município. Por favor, busque similaridades como os seguintes exemplos: no caso de "Coordenação", selecione "Coordenadoria”; no caso de "Direção”, selecione "Diretoria”, e assim por diante.
+* Opção "Outro(s)": Marque esta opção somente se não houver nenhuma nomenclatura adequada entre as já listadas e especifique sua escolha.
+
+
+

@@ -1,0 +1,32 @@
+# Pergunta 10
+
+## Enunciado
+
+Quais as fontes utilizadas para o financiamento às artes no período de 2020 a 2023?
+
+* Captação de recursos complementares
+* Captação de recursos privados, com ou sem incentivo fiscal
+* Dotações orçamentárias
+* Fundos públicos destinados às políticas públicas culturais
+* Outras fontes ou mecanismos previstos em legislação específica
+* Rendimentos obtidos durante a execução da ação cultural
+* Outra(s). Especifique: 
+
+## Explicação
+
+Esta pergunta busca identificar quais foram as fontes utilizadas para o financiamento às artes no período de 2020 a 2023.
+
+### Instruções
+
+* Analise as opções: Leia atentamente cada uma das opções apresentadas.
+* Selecione as opções: Escolha aquelas que correspondem às fontes de financiamento para as artes no período em questão.
+* Opção "Outra(s)": Marque esta opção somente se houver uma fonte de financiamento não listada e especifique sua escolha.
+
+### Descrição das alternativas
+
+* **Captação de recursos complementares:** Obtenção de recursos adicionais de outras fontes para complementar o orçamento inicial da ação cultural.
+* **Captação de recursos privados, com ou sem incentivo fiscal:** Financiamento obtido de empresas ou indivíduos privados, podendo estar atrelado a incentivos fiscais, como leis de incentivo à cultura.
+* **Dotações orçamentárias:** Recursos previstos no orçamento público, destinados ao financiamento de atividades culturais e artísticas.
+* **Fundos públicos destinados às políticas públicas culturais:** Fundos criados pelo governo para apoiar políticas, projetos e programas culturais específicos, como fundos estaduais ou municipais de cultura.
+* **Outras fontes ou mecanismos previstos em legislação específica:** Fontes de financiamento previstas em leis específicas que regulam o fomento à Cultura.
+* **Rendimentos obtidos durante a execução da ação cultural:** Rendimentos de ativos financeiros obtidos durante a execução do projeto cultural.

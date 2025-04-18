@@ -1,0 +1,76 @@
+project:
+  type: book
+
+book:
+  favicon: assets/logo.png
+  twitter-card: true
+  site-url: https://obec-ba.quarto.pub
+  title: "Pesquisa Fomento às Artes no Brasil"
+  author: "Observatório da Economia Criativa - OBEC"
+  downloads: [pdf]
+  sharing: [twitter, facebook]
+  date: "2024/07/01"
+  date-format: "[Salvador, ]D [de] MMMM [de] YYYY[.]"
+  chapters:
+    - index.qmd
+    - text: "Termo de consentimento"
+      href: perguntas/termo.qmd
+    - perguntas/q1.qmd
+    - perguntas/q2.qmd
+    - perguntas/q3.qmd
+    - perguntas/q4.qmd
+    - perguntas/q5.qmd
+    - perguntas/q6.qmd
+    - perguntas/q7.qmd
+    - perguntas/q8.qmd
+    - perguntas/q9.qmd
+    - perguntas/q10.qmd
+    - perguntas/q11.qmd
+    - perguntas/q12.qmd
+    - perguntas/q13.qmd
+    - perguntas/q14.qmd
+    - perguntas/q15.qmd
+    - perguntas/q16.qmd
+    - perguntas/q17.qmd
+    - perguntas/q18.qmd
+    - perguntas/q19.qmd
+    - perguntas/q20.qmd
+    - perguntas/q21.qmd
+    - perguntas/q22.qmd
+    - perguntas/q23.qmd
+    - perguntas/q24.qmd
+    - perguntas/q25.qmd
+    - perguntas/q26.qmd
+  sidebar: 
+    style: floating
+    logo: assets/logo-lateral.png
+    title: " "
+    border: true
+
+logo: assets/logo.png
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc-title: "Nesta página"
+    toc-location: right
+    toc-expand: true
+    toc-depth: 4
+    mainfont: serif;
+    lang: pt-BR
+    number-sections: false
+    css: assets/estilo.css
+  pdf:
+    documentclass: scrreprt
+    lang: pt-BR
+    toc-title: "Sumário"
+    number-sections: false
+    pdf-engine: pdflatex
+  # epub:
+  #   lang: pt-BR
+  # docx: 
+  #   lang: pt-BR
+
+

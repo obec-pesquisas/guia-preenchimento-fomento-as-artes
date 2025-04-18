@@ -1,0 +1,28 @@
+# Pergunta 15
+
+## Enunciado
+
+Houve investimento de recursos do estado/município para os editais da LAB complementando o valor recebido do Governo Federal entre 2020 e 2021?
+
+* Sim
+* Não
+
+Informe o valor total, incluindo os centavos.
+
+Escreva o valor acima por extenso.
+
+## Explicação
+
+Esta pergunta busca obter informações sobre investimentos de recursos financeiros  do estado ou município em complementação à Lei Aldir Blanc (LAB).
+
+### Instruções
+
+* Verifique se o seu estado ou município realizou algum tipo de investimento adicional além dos recursos federais, para os editais da LAB.
+* Se sim, insira o valor total investido pelo estado ou município em reais e, em seguida, escreva o valor por extenso.
+* Informe apenas o valor complementar investido pelo estado ou município, não incluindo os recursos federais.
+* Se não houve investimento complementar, marque a alternativa correspondente.
+
+### Exemplo:
+
+Se o estado investiu R$50.600,00 adicionais na LAB, você deve inserir "50.600,00" no primeiro campo e, em seguida, escrever "Cinquenta mil e seiscentos reais".
+

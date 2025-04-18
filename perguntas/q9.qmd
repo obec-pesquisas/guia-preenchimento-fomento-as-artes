@@ -1,0 +1,44 @@
+# Pergunta 9
+
+## Enunciado
+
+Quais são os principais desafios enfrentados na implementação da política para as artes? (Assinale até três opções)
+
+* Ausência de indicadores de avaliação eficazes
+* Burocracia excessiva
+* Carência de formação e qualificação profissional
+* Dificuldade em realizar processos de consulta e participação da sociedade
+* Estrutura deficiente do órgão
+* Falhas na comunicação entre o ente e a sociedade civil 
+* Financiamento insuficiente para a implementação da política
+* Influência política no processo decisório
+* Limitações na articulação e apoio dos órgãos de controle e outras instâncias decisórias 
+* Não foram identificados desafios
+* Outro(s). Especifique:
+
+## Explicação
+
+Esta pergunta busca identificar os principais desafios estruturais e operacionais  enfrentados na implementação de políticas para as artes no seu estado/município. 
+
+### Instruções
+
+* Analise as opções: Leia atentamente cada uma das opções apresentadas.
+* Selecione até três opções: Escolha as opções que, em sua experiência ou conhecimento, representam os desafios mais significativos para a implementação da política para as artes.
+* Opção "Não foram identificados desafios": Marque esta opção somente se você considerar que não houve desafios no processo de implementação da política para as artes.
+* Opção "Outro(s)": Marque esta opção apenas se houver um ou mais desafios não listados, e especifique sua escolha.
+
+### Descrição das alternativas
+
+* **Ausência de indicadores de avaliação eficazes:** Sinaliza a ausência de ferramentas adequadas para medir o impacto e os resultados da política, o que dificulta o monitoramento e o aprimoramento das ações.
+* **Burocracia excessiva:** Apresenta a existência de processos lentos e complexos que dificultam a execução da política.
+* **Carência de formação e qualificação profissional:** Refere-se à carência de programas de formação e qualificação para os profissionais envolvidos na implementação da política.
+* **Dificuldade em realizar processos de consulta e participação da sociedade:** Indica a falta de mecanismos efetivos para ouvir e envolver a sociedade civil na formulação e implementação da política.
+* **Estrutura deficiente do órgão:** Refere-se à falta de recursos humanos, materiais ou financeiros, ou à organização inadequada do órgão responsável pela política.
+* **Falhas na comunicação entre o ente e a sociedade civil:** Indica a falta de diálogo e transparência entre o ente responsável pela política e a sociedade civil.
+* **Financiamento insuficiente para a implementação da política:** Aponta para a falta de recursos financeiros adequados para executar a política.
+* **Influência política no processo decisório:** Refere-se à interferência de interesses políticos que afetam as decisões relacionadas à implementação da política, desviando o foco de critérios técnicos e objetivos.
+* **Limitações na articulação e apoio dos órgãos de controle e outras instâncias decisórias:** Refere-se à falta de cooperação e apoio de outros órgãos e instituições que possuem poder de decisão ou influência sobre a política.
+
+
+
+

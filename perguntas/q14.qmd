@@ -1,0 +1,19 @@
+# Pergunta 14 {#sec-q14}
+
+## Enunciado
+
+Existe algum sistema ou plataforma tecnológica para a gestão da política de fomento para as artes?
+
+* Sim
+* Não
+* Em implementação
+
+## Explicação
+
+Esta pergunta tem como objetivo identificar a existência de sistemas para a gestão da política de fomento às artes, podendo ser sistemas que envolvem todas ou quaisquer etapas do processo como cadastramento de proponentes, inscrição de projetos, controles de avaliação, ou acompanhamento dos projetos selecionados.
+
+### Instruções
+
+* Verifique a existência de sistema para a gestão da política de fomento para as artes em seu órgão e selecione a opção correspondente.
+
+

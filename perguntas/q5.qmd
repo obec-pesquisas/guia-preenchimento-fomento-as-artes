@@ -1,0 +1,42 @@
+# Pergunta 5 
+
+## Enunciado
+
+Quais linguagens artísticas estão sob a responsabilidade do(s) organismo(s) gestor(es) das artes mencionado(s) nas questões 3 e 4? (múltipla escolha)
+
+* Artes Visuais
+* Audiovisual
+* Circo
+* Dança
+* Literatura
+* Música
+* Teatro
+* Outra(s). Especifique:
+
+## Explicação
+
+Esta pergunta tem como objetivo identificar as linguagens artísticas que estão sob a responsabilidade do órgão gestor das artes em seu estado ou município.
+
+### Instruções
+
+* Analise as opções: Leia atentamente cada uma das opções apresentadas.
+* Selecione as opções: Escolha as que correspondem às linguagens artísticas sob a responsabilidade do(s) organismo(s) gestor(es).
+* Opção "Outra(s)": Marque esta opção somente se o órgão gestor das artes também atuar em linguagens artísticas não listadas e especifique quais.
+
+### Descrição das Linguagens Artísticas
+
+**Artes Visuais:** Pintura, escultura, desenho, gravura, fotografia, instalações e outras formas de expressão artística que utilizam elementos visuais.
+
+**Audiovisual:** Cinema, televisão, vídeo, webmedia e outras formas de expressão artística que combinam imagens e sons em movimento.
+
+**Circo:** Manifestação artística que combina acrobacias, palhaçadas, números musicais e outras atrações.
+
+**Dança:** Linguagem artística que utiliza o corpo humano como meio de expressão, através de movimentos, gestos e coreografias.
+
+**Literatura:** Criação de textos ficcionais, poéticos, dramatúrgicos e outros, com valor artístico e literário.
+
+**Música:** Arte de combinar sons e silêncios, com o objetivo de criar melodias, harmonias e ritmos.
+
+**Teatro:** Arte cênica que apresenta histórias e personagens ao vivo para um público, utilizando a atuação, a encenação e outros recursos teatrais.
+
+**Outras linguagens:** Se o órgão gestor das artes também atuar em outras áreas artísticas não listadas acima, marque a opção "Outra(s)” e descreva brevemente a linguagem artística em questão no campo de resposta aberta.

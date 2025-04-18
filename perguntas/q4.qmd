@@ -1,0 +1,24 @@
+# Pergunta 4
+
+## Enunciado
+
+Caso existam outros organismos responsáveis pela gestão das artes, informar o título e função.
+
+* (campo para resposta aberta de texto)
+
+## Explicação
+
+Responda a esta pergunta somente se, além do órgão identificado na pergunta 3 como gestor das artes, houver outro organismo específico envolvido na gestão das artes no seu estado ou município. Caso a gestão das artes seja exclusiva do órgão  mencionado na pergunta 3, avance para a próxima questão do questionário.
+
+### Instruções
+
+* Seja o mais específico possível ao informar o título e a função, incluindo a sigla do organismo, caso exista.
+* Evite abreviações ou termos genéricos que possam gerar ambiguidade.
+* Certifique-se de que as informações estejam corretas e atualizadas.
+
+### Exemplo
+
+Se, além da Diretoria de Artes da Secretaria de Estado de Cultura, a Fundação de Amparo à Pesquisa e à Cultura (FAPC) também estiver envolvida na gestão das artes, atuando no financiamento de projetos artísticos e culturais, na promoção de pesquisas ou na realização de eventos culturais, inclua as seguintes informações:
+
+* **Nome do Organismo:** Fundação de Amparo à Pesquisa e à Cultura (FAPC)
+* **Funções e Responsabilidades:** Financiamento de projetos artísticos e culturais, promoção de pesquisas e realização de eventos culturais.

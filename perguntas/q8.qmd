@@ -1,0 +1,28 @@
+# Pergunta 8 
+
+## Enunciado
+
+Existem Planos Setoriais para as artes?
+
+* Sim
+* Não
+* Em elaboração
+
+Se sim, anexe os Planos Setoriais para as artes (junte os arquivos em um único PDF).
+
+## Explicação
+
+Esta questão busca verificar a existência de planos setoriais específicos para as áreas das artes e, caso existam, coletar esses documentos para análise.
+
+### Entendendo o que são planos setoriais
+
+Planos setoriais são documentos que definem diretrizes, objetivos, metas e ações para o desenvolvimento de áreas específicas da cultura, como artes visuais, música, teatro, dança e outras linguagens artísticas. Eles visam orientar as políticas públicas e ações de fomento para cada setor.
+
+### Instruções
+
+* Verifique a existência de planos setoriais em seu órgão e selecione a opção correspondente.
+* Caso tenha marcado a opção "Sim", será necessário anexar os planos setoriais encontrados.
+* Caso existam planos setoriais para diferentes áreas das artes (artes visuais, música, teatro, etc.), anexe os documentos correspondentes no campo indicado.
+* Faça o upload do documento em formato PDF.
+* Utilize um software ou ferramenta online para juntar os arquivos PDF em até 2 MB, ou comprimir  arquivos caso seja necessário. Você pode usar [www.ilovepdf.com](https://www.ilovepdf.com/), [pdftk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) ou [Adobe Acrobat](https://www.adobe.com/br/acrobat.html).
+* É possível anexar até 20 arquivos, com o tamanho máximo de 2 MB por arquivo.

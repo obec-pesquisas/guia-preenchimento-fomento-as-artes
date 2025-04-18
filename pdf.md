@@ -1,0 +1,1 @@
+[www.ilovepdf.com](https://www.ilovepdf.com/), [pdftk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) e [Adobe Acrobat](https://www.adobe.com/br/acrobat.html).

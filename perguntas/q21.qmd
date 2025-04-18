@@ -1,0 +1,27 @@
+# Pergunta 21
+
+## Enunciado
+
+Houve investimento de recursos do estado/município para os editais da LPG, complementando o valor recebido do Governo Federal em 2023 e 2024?
+
+* Sim
+* Não
+
+Informe o valor total, incluindo os centavos.
+
+Escreva o valor acima por extenso.
+
+## Explicação
+
+Esta pergunta busca obter informações sobre investimentos de recursos financeiros  do estado ou município em complementação à Lei Paulo Gustavo (LPG).
+
+### Instruções
+
+* Verifique se o seu estado ou município realizou algum tipo de investimento adicional além dos recursos federais, para os editais da LPG.
+* Se sim, insira o valor total investido pelo estado e município em reais e, em seguida, escreva o valor por extenso.
+* Informe apenas o valor complementar investido pelo estado ou município, não incluindo os recursos federais.
+* Se não houve investimento complementar,marque a alternativa correspondente.
+
+### Exemplo:
+
+Se o estado investiu R$50.600,00 adicionais na LPG, você deve inserir "50.600,00" no primeiro campo e, em seguida, escrever "Cinquenta mil e seiscentos reais".
