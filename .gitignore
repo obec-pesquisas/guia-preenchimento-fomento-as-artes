@@ -11,8 +11,11 @@ _site/
 # Removendo o arquivo _publish.yml
 _publish.yml
 
+# removendo os arquivos .pdf
+*.pdf
+
 # Diretório de saída padrão para livros Quarto (caso aplicável)
-# _book/
+_book/
 
 # Arquivos de cache e intermediários do Quarto
 _quarto/
