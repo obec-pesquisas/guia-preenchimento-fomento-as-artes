@@ -8,6 +8,9 @@ _site/
 # Ignorando os arquivos .docx
 *.docx
 
+# Removendo o arquivo _publish.yml
+_publish.yml
+
 # Diretório de saída padrão para livros Quarto (caso aplicável)
 # _book/
 
