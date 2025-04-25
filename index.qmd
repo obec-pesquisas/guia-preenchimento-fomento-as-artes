@@ -119,6 +119,7 @@ O _formulário de coleta_ está organizado em seções para facilitar o preenchi
 #| message: false
 #| label: tbl-cidades
 #| tbl-cap: "Tabela de contatos de pesquisadores(as) do OBEC que estarão em comunicação direta com os Municípios."
+#| warning: false
 
 
 if (!require(pacman)) {

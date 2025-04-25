@@ -112,3 +112,4 @@ Desktop.ini
 # Adicione os caminhos para seus datasets ou arquivos pesados abaixo:
 # ex: data/meu_dataset_grande.csv
 # ex: assets/videos/
+/.quarto/
